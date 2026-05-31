@@ -1,0 +1,192 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# reports
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `AlgoExpProject/` - Directory containing related files for this portfolio item.
+- `BischofsClass/` - Directory containing related files for this portfolio item.
+- `Computer Graphics/` - Directory containing related files for this portfolio item.
+- `Crypto/` - Directory containing related files for this portfolio item.
+- `Data MIning_Best Time To Vacation/` - Directory containing related files for this portfolio item.
+- `Duncan Robert - Java/` - Directory containing related files for this portfolio item.
+- `PhillWhite/` - Directory containing related files for this portfolio item.
+- `stuff/` - Directory containing related files for this portfolio item.
+- `TravisBrown/` - Directory containing related files for this portfolio item.
+- `-AliceChapter1.redacted.txt` - File, 11.5 KB.
+- `02.pdf` - File, 20.0 MB.
+- `1-_Fundamentals_of_Computer_Aided_Design_2-_Introduction_to_....pdf` - File, 58.5 KB.
+- `10.1007-s00145-012-9128-3.pdf` - File, 1.0 MB.
+- `243-ClassSchedule2123.pdf` - File, 46.2 KB.
+- `243-final-review-answers.pdf` - File, 117.8 KB.
+- `243-final-review.pdf` - File, 96.4 KB.
+- `2Dpipeline.pdf` - File, 1.7 MB.
+- `2DviewingAndTransformations.pdf` - File, 3.8 MB.
+- `33242-0131743627_答案ISM.pdf` - File, 780.9 KB.
+- `51.pdf` - File, 191.0 KB.
+- `alice-redacts--from-lab7-Redacter.txt` - File, 139 B.
+- `alice-redacts--from-Stuff-lab7.txt` - File, 139 B.
+- `alice-redacts.txt` - File, 117 B.
+- `AliceChapter1--from-lab7-Redacter.txt` - File, 11.5 KB.
+- `AliceChapter1--from-Stuff-lab7.txt` - File, 11.5 KB.
+- `AliceChapter1.redacted.txt` - File, 11.2 KB.
+- `AliceChapter1.txt` - File, 11.2 KB.
+- `backProjectCode.txt` - File, 9.4 KB.
+- `Best Time for Vacationing.docx` - File, 505.1 KB.
+- `Best Time for Vacationing.pdf` - File, 486.3 KB.
+- `Best Time for Vacationing2.docx` - File, 503.2 KB.
+- `Best Time for Vacationing2.pdf` - File, 479.3 KB.
+- `BillImage.pdf` - File, 1.3 MB.
+- `CG1HW3.docx` - File, 78.3 KB.
+- `CG1HW3.pdf` - File, 47.5 KB.
+- `CG_Important Question with Answer.pdf` - File, 43.0 KB.
+- `CGfundamentals.pdf` - File, 8.2 MB.
+- `cghw2answers.docx` - File, 551.7 KB.
+- `cgnotespart1.pdf` - File, 2.4 MB.
+- `chapter_8_homework.pdf` - File, 99.3 KB.
+- `characteroutput (2013_03_30 07_27_35 UTC).txt` - File, 46 B.
+- `chesssetup.txt` - File, 49 B.
+- `Clipping.pdf` - File, 1.5 MB.
+- `Computer Graphics - Assingment1.docx` - File, 355.1 KB.
+- `Computer Graphics - HW2.docx` - File, 114.7 KB.
+- `Computer Graphics - HW2.pdf` - File, 80.7 KB.
+- `Computer Graphics and Human Simulation.docx` - File, 143.0 KB.
+- `Computer Graphics and Human Simulation.pdf` - File, 65.0 KB.
+- `Computer Graphics I - Assignment1.pdf` - File, 150.1 KB.
+- `Computer Graphics I - Assignment2.pdf` - File, 139.0 KB.
+- `Computer Graphics I - Assignment3.pdf` - File, 153.7 KB.
+- `Computer Graphics I - HW2.pdf` - File, 103.0 KB.
+- `Computer Graphics I - HW4.pdf` - File, 91.9 KB.
+- `Computer Graphics I - Midterm Project Option.pdf` - File, 289.4 KB.
+- `Computer Graphics I copy 2.docx` - File, 79.9 KB.
+- `Computer Graphics I copy.docx` - File, 171.3 KB.
+- `Computer Graphics I.docx` - File, 175.4 KB.
+- `Computer Graphics I.pdf` - File, 1.4 MB.
+- `Computer_Graphics_with_Open_GL_10.pdf` - File, 1.7 MB.
+- `Configuring SFML (1).pdf` - File, 876.4 KB.
+- `Configuring SFML.pdf` - File, 876.4 KB.
+- `CourseInfo.pdf` - File, 678.4 KB.
+- `Crypto Homework 1.docx` - File, 126.2 KB.
+- `Crypto Homework 1.pdf` - File, 564.7 KB.
+- `Crypto-Homework 6.docx` - File, 112.8 KB.
+- `Cryptography Homework 3.docx` - File, 143.0 KB.
+- `Cryptography Homework 3.pdf` - File, 1.0 MB.
+- `CSC-243-Final-Review-2011-3.pdf` - File, 212.9 KB.
+- `CSc472.pdf` - File, 1.6 MB.
+- `D8_3 v1_1.pdf` - File, 1.7 MB.
+- `data-in.txt` - File, 299 B.
+- `design--from-WaterPuzzle-bin.txt` - File, 2.5 KB.
+- `design--from-WaterPuzzle-src.txt` - File, 2.5 KB.
+- `design.txt` - File, 1.4 KB.
+- `dirList.docx` - File, 15.3 KB.
+- `Drawing3.pdf` - File, 36.5 KB.
+- `DynamicAV--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt` - File, 2.7 KB.
+- `DynamicAV.txt` - File, 180 B.
+- `DynamicAV1.txt` - File, 2.6 KB.
+- `E58EFDFC-6266-43D2-BD1A-4B67DE16CEF6.docx` - File, 114.2 KB.
+- `Experimental Project - Algo.docx` - File, 91.0 KB.
+- `ExtraCredit - Cryptography.pdf` - File, 142.8 KB.
+- `final exam - answer1.docx` - File, 275.5 KB.
+- `FinalReport.pdf` - File, 100.0 KB.
+- `graphicass01.doc` - File, 28.0 KB.
+- `guide to try.pdf` - File, 216.7 KB.
+- `GUIDE--from-AlgoExpProject-2013-12-03-Algo-Experimental-Project.PDF` - File, 293.4 KB.
+- `guide.pdf` - File, 216.7 KB.
+- `Hirscberg.docx` - File, 6.2 KB.
+- `HLSm.pdf` - File, 131.0 KB.
+- `homework1.docx` - File, 18.5 KB.
+- `HomeworkCrypt6 copy.docx` - File, 184.6 KB.
+- `HomeworkCrypt6.docx` - File, 264.5 KB.
+- `HomeworkCrypt6.pdf` - File, 1.3 MB.
+- `How to Use the vi Editor.pdf` - File, 167.5 KB.
+- `hspr.pdf` - File, 226.4 KB.
+- `HW4.docx` - File, 136.0 KB.
+- `HW4.pdf` - File, 111.9 KB.
+- `hw6.pdf` - File, 3.2 KB.
+- `input--from-Crypto-CryptoHw6.txt` - File, 36 B.
+- `input.rtf` - File, 271 B.
+- `input.txt` - File, 964 B.
+- `InSITE10p693-704Ghuloum751.pdf` - File, 426.6 KB.
+- `introduction to OpenGL.pdf` - File, 231.5 KB.
+- `Java .pdf` - File, 159.6 KB.
+- `Java Coding Standard.pdf` - File, 165.1 KB.
+- `Java Final Review.rtf` - File, 2.1 KB.
+- `JavaLab3Notes.rtf` - File, 18.6 KB.
+- `JavaMidtermNotes.txt` - File, 630 B.
+- `javanotesprojecpart1.rtf` - File, 1.4 KB.
+- `jinput_license.txt` - File, 1.9 KB.
+- `jogl_license.txt` - File, 8.1 KB.
+- `key.txt` - File, 84 B.
+- `laws.pdf` - File, 1.1 MB.
+- `ldc_tutorial.pdf` - File, 176.6 KB.
+- `LinearAttackO.txt` - File, 3.2 KB.
+- `Lines_circles.pdf` - File, 1.3 MB.
+- `lzma_license.txt` - File, 583 B.
+- `Matrices.pdf` - File, 1.1 MB.
+- `MemoizationAV--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt` - File, 3.0 KB.
+- `MemoizationAV.txt` - File, 183 B.
+- `MemoizationAV1.txt` - File, 3.0 KB.
+- `MidpointLineStarJavaProgram.rtf` - File, 5.1 KB.
+- `NaiveRecursive--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt` - File, 1.9 KB.
+- `NaiveRecursive.txt` - File, 191 B.
+- `one1.docx` - File, 19.9 KB.
+- `openal_license.txt` - File, 23.1 KB.
+- `opengl-programming-guide-7e.pdf` - File, 10.3 MB.
+- `Orange_Book_-_OpenGL_Shading_Language_2nd_Edition.pdf` - File, 6.6 MB.
+- `out--from-CryptoHw3-Crypthw3.txt` - File, 0 B.
+- `out--from-CryptoHw3-Crypthw32.txt` - File, 0 B.
+- `out-Piter’s MacBook Pro.txt` - File, 128.0 KB.
+- `out.txt` - File, 24.0 KB.
+- `out1.txt` - File, 96.2 KB.
+- `out2.txt` - File, 28.7 KB.
+- `outagain (2013_03_30 07_27_35 UTC).txt` - File, 46 B.
+- `output--from-Crypto-CryptoHw3.txt` - File, 43.3 MB.
+- `output--from-CryptoHw3-Crypthw3.txt` - File, 732 B.
+- `output--from-CryptoHw3-Crypthw32.txt` - File, 732 B.
+- `output.txt` - File, 270.6 KB.
+- `Phase2.pdf` - File, 473.9 KB.
+- `PointsAndVectors.pdf` - File, 1016.8 KB.
+- `PolygonFill.pdf` - File, 749.1 KB.
+- `postLabReport--from-243_Lab1-src.txt` - File, 8.6 KB.
+- `postLabReport--from-CS243_lab1-src.txt` - File, 13.3 KB.
+- `postLabReport--from-Duncan-Robert---Java-lab1.txt` - File, 8.6 KB.
+- `postLabReport.txt` - File, 8.7 KB.
+- `QuadraticAV--from-AlgoExpProject-2013-12-03-Algo-Experimental-Project.txt` - File, 3.3 KB.
+- `QuadraticAV--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt` - File, 3.2 KB.
+- `QuadraticAV.txt` - File, 0 B.
+- `QuadraticAV1.txt` - File, 2.6 KB.
+- `questionare.rtf` - File, 3.1 KB.
+- `Rasterization a line.pdf` - File, 204.7 KB.
+- `README--from-MacPorts-2.1.1-config.TXT` - File, 414 B.
+- `ReadMe.rtf` - File, 6.2 KB.
+- `README.TXT` - File, 1.1 KB.
+- `RecitationWeek1.docx` - File, 114.3 KB.
+- `RecitationWeek1.txt` - File, 4.9 KB.
+- `report - Copy.pdf` - File, 68.9 KB.
+- `report.bib` - File, 1.1 KB.
+- `report.pdf` - File, 2.5 MB.
+- `report.tex` - File, 21.1 KB.
+- `REPORT_INITIAL.PDF` - File, 116.3 KB.
+- `resources.txt` - File, 410 B.
+- `result (2013_03_30 07_27_35 UTC).txt` - File, 2.8 KB.
+- `result.txt` - File, 147.7 KB.
+- `results (2013_03_30 07_27_35 UTC).txt` - File, 2.8 KB.
+- `retirizercopy.rtf` - File, 19.3 KB.
+- `sig-alternate.cls` - File, 58.3 KB.
+- `sig-alternate.tex` - File, 25.0 KB.
+- `SPR-51.pdf` - File, 190.3 KB.
+- `SPR-52.pdf` - File, 174.6 KB.
+- `spr.pdf` - File, 180.0 KB.
+- `tessellation.pdf` - File, 801.0 KB.
+- `test-all.input.txt` - File, 497 B.
+- `test-power.input.txt` - File, 20 B.
+- `test-tune3.input.txt` - File, 519 B.
+- `test-volume1.input.txt` - File, 394 B.
+- `test.txt` - File, 120 B.
+- `tut1a.pdf` - File, 31.6 KB.
+- `Unix Reference Card.pdf` - File, 83.7 KB.
+- `WhatIsCG.pdf` - File, 8.4 MB.
+- `www.cs.rit.edu_~vcss243_Recitations_01_worksheet.pdf` - File, 92.0 KB.
+- `xanadu (2013_03_30 07_27_35 UTC).txt` - File, 46 B.
+- `xanadu.txt` - File, 46 B.

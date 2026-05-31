@@ -1,14 +1,782 @@
-# Overleaf Preparation
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Overleaf Prep
 
-Repository: `opc-java-oop`
+Paper, report, and presentation files imported into GitHub are grouped here for later Overleaf conversion.
 
-Drive source: https://drive.google.com/drive/folders/1cbbnx1wAbvKFco2s2SiYgYUpCsM0M36W
+## Reports
 
-## Available Source Buckets
+- `reports/-AliceChapter1.redacted.txt`
+- `reports/02.pdf`
+- `reports/1-_Fundamentals_of_Computer_Aided_Design_2-_Introduction_to_....pdf`
+- `reports/10.1007-s00145-012-9128-3.pdf`
+- `reports/243-ClassSchedule2123.pdf`
+- `reports/243-final-review-answers.pdf`
+- `reports/243-final-review.pdf`
+- `reports/2Dpipeline.pdf`
+- `reports/2DviewingAndTransformations.pdf`
+- `reports/33242-0131743627_答案ISM.pdf`
+- `reports/51.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/51(1).jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/51(2).jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/51(3).jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/51.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/52(1).jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/52(2).jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/52(3).jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/71.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/72.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/c1.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/c2.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/c3.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/c4.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d1.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d2.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d3.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d4.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d5.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/dirList.docx`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/f.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/FinalReport.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/fly.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/GUIDE.PDF`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h1.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h2.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h3.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h4.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h5.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h6.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls1.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls2.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls3.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls4.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/HLSm.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/HLSm.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hsl.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hsl2.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hsl3.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hsl4.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hspr-1.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hspr-2.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hspr.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/j.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m1.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m2.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m3.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m4.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m5.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/n1.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/n2.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/n3.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/QuadraticAV.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/README.TXT`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/report - Copy.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/report.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/report.tex`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/REPORT_INITIAL.PDF`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/sig-alternate.tex`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/SPR-51.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/SPR-52.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/spr.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/TestData1.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/TestData2.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/DynamicAV.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/DynamicAV1.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/MemoizationAV.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/MemoizationAV1.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/NaiveRecursive.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/QuadraticAV.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/QuadraticAV1.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Experimental Project - Algo.docx`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Hirscberg.docx`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Hirschberg.java`
+- `reports/AlgoExpProject/bin/DynamicAV.txt`
+- `reports/AlgoExpProject/bin/MemoizationAV.txt`
+- `reports/AlgoExpProject/bin/NaiveRecursive.txt`
+- `reports/AlgoExpProject/bin/QuadraticAV.txt`
+- `reports/AlgoExpProject/output.txt`
+- `reports/AlgoExpProject/projectGraph.m`
+- `reports/AlgoExpProject/src/DynamicAV.java`
+- `reports/AlgoExpProject/src/DynamicAV.txt`
+- `reports/AlgoExpProject/src/GenerateInputs.java`
+- `reports/AlgoExpProject/src/LCS.java`
+- `reports/AlgoExpProject/src/MemoizationAV.java`
+- `reports/AlgoExpProject/src/MemoizationAV.txt`
+- `reports/AlgoExpProject/src/NaiveRecursive.java`
+- `reports/AlgoExpProject/src/NaiveRecursive.txt`
+- `reports/AlgoExpProject/src/QuadraticAV.txt`
+- `reports/AlgoExpProject/src/TestAlgorithms.java`
+- `reports/AlgoExpProject/test.txt`
+- `reports/alice-redacts--from-lab7-Redacter.txt`
+- `reports/alice-redacts--from-Stuff-lab7.txt`
+- `reports/alice-redacts.txt`
+- `reports/AliceChapter1--from-lab7-Redacter.txt`
+- `reports/AliceChapter1--from-Stuff-lab7.txt`
+- `reports/AliceChapter1.redacted.txt`
+- `reports/AliceChapter1.txt`
+- `reports/backProjectCode.txt`
+- `reports/Best Time for Vacationing.docx`
+- `reports/Best Time for Vacationing.pdf`
+- `reports/Best Time for Vacationing2.docx`
+- `reports/Best Time for Vacationing2.pdf`
+- `reports/BillImage.pdf`
+- `reports/BischofsClass/hw4/lab4-1/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-1/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-1/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-1/Peach (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-2/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-2/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-2/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-3/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-3/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-3/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-3/TotalPrice (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-4/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-4/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-4/FruitException (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-4/Mangoes (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-4/TestFruit (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw5/MyHashSetB/result (2013_03_30 07_27_35 UTC).txt`
+- `reports/BischofsClass/hw5/MyHashSetB/results (2013_03_30 07_27_35 UTC).txt`
+- `reports/CG1HW3.docx`
+- `reports/CG1HW3.pdf`
+- `reports/CG_Important Question with Answer.pdf`
+- `reports/CGfundamentals.pdf`
+- `reports/cghw2answers.docx`
+- `reports/cgnotespart1.pdf`
+- `reports/chapter_8_homework.pdf`
+- `reports/characteroutput (2013_03_30 07_27_35 UTC).txt`
+- `reports/chesssetup.txt`
+- `reports/Clipping.pdf`
+- `reports/Computer Graphics - Assingment1.docx`
+- `reports/Computer Graphics - HW2.docx`
+- `reports/Computer Graphics - HW2.pdf`
+- `reports/Computer Graphics and Human Simulation.docx`
+- `reports/Computer Graphics and Human Simulation.pdf`
+- `reports/Computer Graphics I - Assignment1.pdf`
+- `reports/Computer Graphics I - Assignment2.pdf`
+- `reports/Computer Graphics I - Assignment3.pdf`
+- `reports/Computer Graphics I - HW2.pdf`
+- `reports/Computer Graphics I - HW4.pdf`
+- `reports/Computer Graphics I - Midterm Project Option.pdf`
+- `reports/Computer Graphics I copy 2.docx`
+- `reports/Computer Graphics I copy.docx`
+- `reports/Computer Graphics I.docx`
+- `reports/Computer Graphics I.pdf`
+- `reports/Computer Graphics/anotherandtemFinal/bin/texture.jpg`
+- `reports/Computer Graphics/anotherandtemFinal/src/cg1Shape.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/Coordinates.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/lightingParams.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/shaderProgram.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/Shapes.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/simpleShape.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/tessMain.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/texture.jpg`
+- `reports/Computer Graphics/anotherFinal/bin/texture.jpg`
+- `reports/Computer Graphics/anotherFinal/cg2Shape.java`
+- `reports/Computer Graphics/anotherFinal/src/cg1Shape.java`
+- `reports/Computer Graphics/anotherFinal/src/coordinates.java`
+- `reports/Computer Graphics/anotherFinal/src/lightingParams.java`
+- `reports/Computer Graphics/anotherFinal/src/shaderProgram.java`
+- `reports/Computer Graphics/anotherFinal/src/Shapes.java`
+- `reports/Computer Graphics/anotherFinal/src/simpleShape.java`
+- `reports/Computer Graphics/anotherFinal/src/tessMain.java`
+- `reports/Computer Graphics/anotherFinal/src/texture.jpg`
+- `reports/Computer Graphics/anotherFinal/textureMain.java`
+- `reports/Computer Graphics/anotherFinal/textureParams.java`
+- `reports/Computer Graphics/CG-FinalExam/bin/texture.jpg`
+- `reports/Computer Graphics/CG-FinalExam/src/cg1Shape.java`
+- `reports/Computer Graphics/CG-FinalExam/src/Coordinates.java`
+- `reports/Computer Graphics/CG-FinalExam/src/lightingParams.java`
+- `reports/Computer Graphics/CG-FinalExam/src/shaderProgram.java`
+- `reports/Computer Graphics/CG-FinalExam/src/Shapes.java`
+- `reports/Computer Graphics/CG-FinalExam/src/simpleShape.java`
+- `reports/Computer Graphics/CG-FinalExam/src/tessMain.java`
+- `reports/Computer Graphics/CG-FinalExam/src/tessMain2.java`
+- `reports/Computer Graphics/CG-FinalExam/src/texture.jpg`
+- `reports/Computer_Graphics_with_Open_GL_10.pdf`
+- `reports/Configuring SFML (1).pdf`
+- `reports/Configuring SFML.pdf`
+- `reports/CourseInfo.pdf`
+- `reports/Crypto Homework 1.docx`
+- `reports/Crypto Homework 1.pdf`
+- `reports/Crypto-Homework 6.docx`
+- `reports/Crypto/CryptoEC/ExtraCredit - Cryptography.pdf`
+- `reports/Crypto/CryptoHW1/Crypto Homework 1.docx`
+- `reports/Crypto/CryptoHW1/Crypto Homework 1.pdf`
+- `reports/Crypto/CryptoHW1/out.txt`
+- `reports/Crypto/CryptoHW1/out1.txt`
+- `reports/Crypto/CryptoHW1/out2.txt`
+- `reports/Crypto/CryptoHW1/result.txt`
+- `reports/Crypto/CryptoHw3/Crypthw3/out-Piter’s MacBook Pro.txt`
+- `reports/Crypto/CryptoHw3/Crypthw3/out.txt`
+- `reports/Crypto/CryptoHw3/Crypthw3/output.txt`
+- `reports/Crypto/CryptoHw3/Crypthw32/out-Piter’s MacBook Pro.txt`
+- `reports/Crypto/CryptoHw3/Crypthw32/out.txt`
+- `reports/Crypto/CryptoHw3/Crypthw32/output.txt`
+- `reports/Crypto/CryptoHw3/Cryptography Homework 3.docx`
+- `reports/Crypto/CryptoHw3/Cryptography Homework 3.pdf`
+- `reports/Crypto/CryptoHw3/output.txt`
+- `reports/Crypto/CryptoHw6/Crypthw6/cryptohw6/chapter_8_homework.pdf`
+- `reports/Crypto/CryptoHw6/Crypthw6/cryptohw6/D8_3 v1_1.pdf`
+- `reports/Crypto/CryptoHw6/Crypthw6/cryptohw6/ldc_tutorial.pdf`
+- `reports/Crypto/CryptoHw6/Crypto-Homework 6.docx`
+- `reports/Crypto/CryptoHw6/HomeworkCrypt6 copy.docx`
+- `reports/Crypto/CryptoHw6/HomeworkCrypt6.docx`
+- `reports/Crypto/CryptoHw6/HomeworkCrypt6.pdf`
+- `reports/Crypto/CryptoHw6/input.txt`
+- `reports/Crypto/CryptoHw6/key.txt`
+- `reports/Crypto/CryptoHw6/laws.pdf`
+- `reports/Crypto/CryptoHw6/LinearAttackO.txt`
+- `reports/Cryptography Homework 3.docx`
+- `reports/Cryptography Homework 3.pdf`
+- `reports/CSC-243-Final-Review-2011-3.pdf`
+- `reports/CSc472.pdf`
+- `reports/D8_3 v1_1.pdf`
+- `reports/Data MIning_Best Time To Vacation/Best Time for Vacationing.docx`
+- `reports/Data MIning_Best Time To Vacation/Best Time for Vacationing.pdf`
+- `reports/Data MIning_Best Time To Vacation/Best Time for Vacationing2.docx`
+- `reports/Data MIning_Best Time To Vacation/Best Time for Vacationing2.pdf`
+- `reports/Data MIning_Best Time To Vacation/Drawing3.pdf`
+- `reports/Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/config/README.TXT`
+- `reports/Data MIning_Best Time To Vacation/Phase2/Phase2.pdf`
+- `reports/data-in.txt`
+- `reports/design--from-WaterPuzzle-bin.txt`
+- `reports/design--from-WaterPuzzle-src.txt`
+- `reports/design.txt`
+- `reports/dirList.docx`
+- `reports/Drawing3.pdf`
+- `reports/Duncan Robert - Java/lab1/PizzaRun.java`
+- `reports/Duncan Robert - Java/lab1/postLabReport.txt`
+- `reports/Duncan Robert - Java/lab1/PrimeSieve.java`
+- `reports/Duncan Robert - Java/lab1/Snowflake.java`
+- `reports/Duncan Robert - Java/lab1/StdDraw.java`
+- `reports/Duncan Robert - Java/lab1/Turtle.java`
+- `reports/Duncan Robert - Java/lab2/CarRadio/CarRadio.java`
+- `reports/Duncan Robert - Java/lab2/CarRadio/test-all.input.txt`
+- `reports/Duncan Robert - Java/lab2/CarRadio/test-power.input.txt`
+- `reports/Duncan Robert - Java/lab2/CarRadio/test-tune3.input.txt`
+- `reports/Duncan Robert - Java/lab2/CarRadio/test-volume1.input.txt`
+- `reports/Duncan Robert - Java/lab3/RegExParser/AddExpression.java`
+- `reports/Duncan Robert - Java/lab3/RegExParser/Expression.java`
+- `reports/Duncan Robert - Java/lab3/RegExParser/Interp.java`
+- `reports/Duncan Robert - Java/lab3/RegExParser/IntExpression.java`
+- `reports/Duncan Robert - Java/lab3/RegExParser/MulExpression.java`
+- `reports/Duncan Robert - Java/lab3/RegExParser/Parse.java`
+- `reports/Duncan Robert - Java/lab3/RegExParser/SubExpression.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Card.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Computer.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Deck.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Human.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Player.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Poker.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/PokerHand.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Ranks.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Suits.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Winner.java`
+- `reports/Duncan Robert - Java/lab5/BCardsDealer/BaseballCard.java`
+- `reports/Duncan Robert - Java/lab5/BCardsDealer/Dealer.java`
+- `reports/Duncan Robert - Java/lab5/BCardsDealer/Fan.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/Card.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/CardBack.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/CardButton.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/CardFace.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/CheatFrame.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/ConcentrationModel.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/GViewControl.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/TextViewControl.java`
+- `reports/Duncan Robert - Java/Lab7/Redacter1/Redact.java`
+- `reports/Duncan Robert - Java/Lab7/Redacter1/RedactWriter.java`
+- `reports/Duncan Robert - Java/lab8/TrollsBridge/RunWoolies.java`
+- `reports/Duncan Robert - Java/lab8/TrollsBridge/TrollsBridge.java`
+- `reports/Duncan Robert - Java/lab8/TrollsBridge/Woolie.java`
+- `reports/Duncan Robert - Java/RushHourGame/243-final-review-answers.pdf`
+- `reports/Duncan Robert - Java/RushHourGame/243-final-review.pdf`
+- `reports/Duncan Robert - Java/RushHourGame/CSC-243-Final-Review-2011-3.pdf`
+- `reports/Duncan Robert - Java/RushHourGame/input.rtf`
+- `reports/Duncan Robert - Java/RushHourGame/Java Final Review.rtf`
+- `reports/Duncan Robert - Java/RushHourGame/javanotesprojecpart1.rtf`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/PizzaRun.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/postLabReport.txt`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/PrimeSieve.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/Snowflake.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/StdDraw.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/Turtle.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/AddExpression.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/Expression.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/Interp.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/IntExpression.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/JavaLab3Notes.rtf`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/MulExpression.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/one1.docx`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/Parse.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/SubExpression.java`
+- `reports/Duncan Robert - Java/Stuff/backProjectCode.txt`
+- `reports/Duncan Robert - Java/Stuff/BinaryTree/src/BinaryTreeExample.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/PizzaRun.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/PrimeSieve.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem1.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem10.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem2.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem3.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem4.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem5.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem6.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem7.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem8.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem9.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Snowflake.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/PizzaRun.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/postLabReport.txt`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/PrimeSieve.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem1.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem10.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem2.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem3.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem4.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem5.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem6.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem7.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem8.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem9.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Snowflake.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/StdDraw.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Turtle copy.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Turtle.java`
+- `reports/Duncan Robert - Java/Stuff/dlab5/BaseballCard.java`
+- `reports/Duncan Robert - Java/Stuff/dlab5/Dealer.java`
+- `reports/Duncan Robert - Java/Stuff/dlab5/Fan.java`
+- `reports/Duncan Robert - Java/Stuff/homework1.docx`
+- `reports/Duncan Robert - Java/Stuff/Java .pdf`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/AddExpression.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/Expression.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/ExpressionTree.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/Interp.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/IntExpression.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/MulExpression.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/Parse.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/SubExpression.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Card.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Computer.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Deck.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Human.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Player.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Poker.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/PokerHand.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Ranks.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Suits.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Winner.java`
+- `reports/Duncan Robert - Java/Stuff/lab7 2/Redact.java`
+- `reports/Duncan Robert - Java/Stuff/lab7 2/RedactWriter.java`
+- `reports/Duncan Robert - Java/Stuff/lab7/-AliceChapter1.redacted.txt`
+- `reports/Duncan Robert - Java/Stuff/lab7/alice-redacts.txt`
+- `reports/Duncan Robert - Java/Stuff/lab7/AliceChapter1.txt`
+- `reports/Duncan Robert - Java/Stuff/lab7/MyException.java`
+- `reports/Duncan Robert - Java/Stuff/lab7/Redact.java`
+- `reports/Duncan Robert - Java/Stuff/lab7/RedactWriter.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/AudioBook.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/Book.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/ElectronicBook.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/HardcoverBook.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/JavaMidtermNotes.txt`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/Media.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/PaperbackBook.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/Store.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/storeName.png`
+- `reports/Duncan Robert - Java/WaterPuzzle/bin/design.txt`
+- `reports/Duncan Robert - Java/WaterPuzzle/src/design.txt`
+- `reports/DynamicAV--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt`
+- `reports/DynamicAV.txt`
+- `reports/DynamicAV1.txt`
+- `reports/E58EFDFC-6266-43D2-BD1A-4B67DE16CEF6.docx`
+- `reports/Experimental Project - Algo.docx`
+- `reports/ExtraCredit - Cryptography.pdf`
+- `reports/final exam - answer1.docx`
+- `reports/FinalReport.pdf`
+- `reports/graphicass01.doc`
+- `reports/guide to try.pdf`
+- `reports/GUIDE--from-AlgoExpProject-2013-12-03-Algo-Experimental-Project.PDF`
+- `reports/guide.pdf`
+- `reports/Hirscberg.docx`
+- `reports/HLSm.pdf`
+- `reports/homework1.docx`
+- `reports/HomeworkCrypt6 copy.docx`
+- `reports/HomeworkCrypt6.docx`
+- `reports/HomeworkCrypt6.pdf`
+- `reports/How to Use the vi Editor.pdf`
+- `reports/hspr.pdf`
+- `reports/HW4.docx`
+- `reports/HW4.pdf`
+- `reports/hw6.pdf`
+- `reports/input--from-Crypto-CryptoHw6.txt`
+- `reports/input.rtf`
+- `reports/input.txt`
+- `reports/InSITE10p693-704Ghuloum751.pdf`
+- `reports/introduction to OpenGL.pdf`
+- `reports/Java .pdf`
+- `reports/Java Coding Standard.pdf`
+- `reports/Java Final Review.rtf`
+- `reports/JavaLab3Notes.rtf`
+- `reports/JavaMidtermNotes.txt`
+- `reports/javanotesprojecpart1.rtf`
+- `reports/jinput_license.txt`
+- `reports/jogl_license.txt`
+- `reports/key.txt`
+- `reports/laws.pdf`
+- `reports/ldc_tutorial.pdf`
+- `reports/LinearAttackO.txt`
+- `reports/Lines_circles.pdf`
+- `reports/lzma_license.txt`
+- `reports/Matrices.pdf`
+- `reports/MemoizationAV--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt`
+- `reports/MemoizationAV.txt`
+- `reports/MemoizationAV1.txt`
+- `reports/MidpointLineStarJavaProgram.rtf`
+- `reports/NaiveRecursive--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt`
+- `reports/NaiveRecursive.txt`
+- `reports/one1.docx`
+- `reports/openal_license.txt`
+- `reports/opengl-programming-guide-7e.pdf`
+- `reports/Orange_Book_-_OpenGL_Shading_Language_2nd_Edition.pdf`
+- `reports/out--from-CryptoHw3-Crypthw3.txt`
+- `reports/out--from-CryptoHw3-Crypthw32.txt`
+- `reports/out-Piter’s MacBook Pro.txt`
+- `reports/out.txt`
+- `reports/out1.txt`
+- `reports/out2.txt`
+- `reports/outagain (2013_03_30 07_27_35 UTC).txt`
+- `reports/output--from-Crypto-CryptoHw3.txt`
+- `reports/output--from-CryptoHw3-Crypthw3.txt`
+- `reports/output--from-CryptoHw3-Crypthw32.txt`
+- `reports/output.txt`
+- `reports/Phase2.pdf`
+- `reports/PhillWhite/lab1/PowerSet/PowerSet (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab1/PowerSet/PowerSet.java`
+- `reports/PhillWhite/lab1/UnixAccount/UnixAccount (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab1/UnixAccount/UnixAccount.java`
+- `reports/PhillWhite/lab2/PokerHandA/Card (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandA/Card.java`
+- `reports/PhillWhite/lab2/PokerHandA/Computer.java`
+- `reports/PhillWhite/lab2/PokerHandA/Deck.java`
+- `reports/PhillWhite/lab2/PokerHandA/Human (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandA/Human.java`
+- `reports/PhillWhite/lab2/PokerHandA/Poker.java`
+- `reports/PhillWhite/lab2/PokerHandA/Ranks.java`
+- `reports/PhillWhite/lab2/PokerHandA/Suits.java`
+- `reports/PhillWhite/lab2/PokerHandB/Card (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Card.java`
+- `reports/PhillWhite/lab2/PokerHandB/Computer (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Computer.java`
+- `reports/PhillWhite/lab2/PokerHandB/Deck (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Deck.java`
+- `reports/PhillWhite/lab2/PokerHandB/Human (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Human.java`
+- `reports/PhillWhite/lab2/PokerHandB/Poker (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Poker.java`
+- `reports/PhillWhite/lab2/PokerHandB/Ranks (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Ranks.java`
+- `reports/PhillWhite/lab2/PokerHandB/Suits (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Suits.java`
+- `reports/PhillWhite/lab2/PokerHandC/Card (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Card.java`
+- `reports/PhillWhite/lab2/PokerHandC/Computer (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Computer.java`
+- `reports/PhillWhite/lab2/PokerHandC/Deck (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Deck.java`
+- `reports/PhillWhite/lab2/PokerHandC/Human (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Human.java`
+- `reports/PhillWhite/lab2/PokerHandC/Poker (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Poker.java`
+- `reports/PhillWhite/lab2/PokerHandC/Ranks (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Ranks.java`
+- `reports/PhillWhite/lab2/PokerHandC/Suits (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Suits.java`
+- `reports/PhillWhite/lab3/PokerHandD/Card (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Card.java`
+- `reports/PhillWhite/lab3/PokerHandD/Computer (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Computer.java`
+- `reports/PhillWhite/lab3/PokerHandD/Deck (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Deck.java`
+- `reports/PhillWhite/lab3/PokerHandD/Human (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Human.java`
+- `reports/PhillWhite/lab3/PokerHandD/Poker (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Poker.java`
+- `reports/PhillWhite/lab3/PokerHandD/PokerHand (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/PokerHand.java`
+- `reports/PhillWhite/lab3/PokerHandD/Ranks (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Ranks.java`
+- `reports/PhillWhite/lab3/PokerHandD/Suits (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Suits.java`
+- `reports/PhillWhite/lab4/FruitA/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitA/Apples.java`
+- `reports/PhillWhite/lab4/FruitA/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitA/Fruit.java`
+- `reports/PhillWhite/lab4/FruitA/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitA/Mangos.java`
+- `reports/PhillWhite/lab4/FruitA/Peach (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitA/Peach.java`
+- `reports/PhillWhite/lab4/FruitB/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitB/Apples.java`
+- `reports/PhillWhite/lab4/FruitB/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitB/Fruit.java`
+- `reports/PhillWhite/lab4/FruitB/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitB/Mangos.java`
+- `reports/PhillWhite/lab4/FruitC/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitC/Apples.java`
+- `reports/PhillWhite/lab4/FruitC/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitC/Fruit.java`
+- `reports/PhillWhite/lab4/FruitC/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitC/Mangos.java`
+- `reports/PhillWhite/lab4/FruitC/TotalPrice (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitC/TotalPrice.java`
+- `reports/PhillWhite/lab4/FruitD/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/Apples.java`
+- `reports/PhillWhite/lab4/FruitD/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/Fruit.java`
+- `reports/PhillWhite/lab4/FruitD/FruitException (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/FruitException.java`
+- `reports/PhillWhite/lab4/FruitD/FruitException2 (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/FruitException2.java`
+- `reports/PhillWhite/lab4/FruitD/Mangoes (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/Mangoes.java`
+- `reports/PhillWhite/lab4/FruitD/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/Mangos.java`
+- `reports/PhillWhite/lab4/FruitD/TestFruit (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/TestFruit.java`
+- `reports/PhillWhite/lab5/BinSet/BinSet.java`
+- `reports/PhillWhite/lab5/BinSet/BSTTest.java`
+- `reports/PhillWhite/lab5/BinSet/Card.java`
+- `reports/PhillWhite/lab5/BinSet/Ranks.java`
+- `reports/PhillWhite/lab5/BinSet/Ranks1.java`
+- `reports/PhillWhite/lab5/BinSet/TestBinSet.java`
+- `reports/PhillWhite/lab6/RunWoolies (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab6/TrollsBridge (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab6/TrollsBridge/RunWoolies.java`
+- `reports/PhillWhite/lab6/TrollsBridge/TrollsBridge.java`
+- `reports/PhillWhite/lab6/TrollsBridge/Woolie.java`
+- `reports/PhillWhite/lab6/Woolie (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab8/AddressBook/Contacts (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab8/AddressBook/Contacts.java`
+- `reports/PhillWhite/lab8/AddressBook/MenuSelec (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab8/AddressBook/MenuSelec.java`
+- `reports/PhillWhite/lab8/AddressBook/Names (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab8/AddressBook/Names.java`
+- `reports/PhillWhite/lab8/AddressBookApp/AddressBook (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab8/AddressBookApp/AddressBook.java`
+- `reports/PhillWhite/lab8/AddressBookApp/Contacts (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab8/AddressBookApp/Contacts.java`
+- `reports/PhillWhite/lab9/VCipherReader/VigenereCipherReader (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab9/VCipherReader/VigenereCipherReader.java`
+- `reports/PhillWhite/lab9/VCipherReader/VigenereCipherWriter (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab9/VCipherReader/VigenereCipherWriter.java`
+- `reports/PhillWhite/lab9/VCipherReaderA/VigenereCipherReader (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab9/VCipherReaderA/VigenereCipherReader.java`
+- `reports/PhillWhite/lab9/VCipherReaderB/VigenereCipherWriter (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab9/VCipherReaderB/VigenereCipherWriter.java`
+- `reports/PhillWhite/stuff/characteroutput (2013_03_30 07_27_35 UTC).txt`
+- `reports/PhillWhite/stuff/Example (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/stuff/outagain (2013_03_30 07_27_35 UTC).txt`
+- `reports/PhillWhite/stuff/xanadu (2013_03_30 07_27_35 UTC).txt`
+- `reports/PhillWhite/stuff/xanadu.txt`
+- `reports/PointsAndVectors.pdf`
+- `reports/PolygonFill.pdf`
+- `reports/postLabReport--from-243_Lab1-src.txt`
+- `reports/postLabReport--from-CS243_lab1-src.txt`
+- `reports/postLabReport--from-Duncan-Robert---Java-lab1.txt`
+- `reports/postLabReport.txt`
+- `reports/QuadraticAV--from-AlgoExpProject-2013-12-03-Algo-Experimental-Project.txt`
+- `reports/QuadraticAV--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt`
+- `reports/QuadraticAV.txt`
+- `reports/QuadraticAV1.txt`
+- `reports/questionare.rtf`
+- `reports/Rasterization a line.pdf`
+- `reports/README--from-MacPorts-2.1.1-config.TXT`
+- `reports/ReadMe.rtf`
+- `reports/README.TXT`
+- `reports/RecitationWeek1.docx`
+- `reports/RecitationWeek1.txt`
+- `reports/report - Copy.pdf`
+- `reports/report.bib`
+- `reports/report.pdf`
+- `reports/report.tex`
+- `reports/REPORT_INITIAL.PDF`
+- `reports/resources.txt`
+- `reports/result (2013_03_30 07_27_35 UTC).txt`
+- `reports/result.txt`
+- `reports/results (2013_03_30 07_27_35 UTC).txt`
+- `reports/retirizercopy.rtf`
+- `reports/sig-alternate.cls`
+- `reports/sig-alternate.tex`
+- `reports/SPR-51.pdf`
+- `reports/SPR-52.pdf`
+- `reports/spr.pdf`
+- `reports/stuff/ChestGame_NM/chesssetup.txt`
+- `reports/stuff/ChestGame_NM/design.txt`
+- `reports/stuff/Docs/10.1007-s00145-012-9128-3.pdf`
+- `reports/stuff/Docs/E58EFDFC-6266-43D2-BD1A-4B67DE16CEF6.docx`
+- `reports/stuff/Docs/guide to try.pdf`
+- `reports/stuff/Docs/guide.pdf`
+- `reports/stuff/Docs/How to Use the vi Editor.pdf`
+- `reports/stuff/Docs/Java Coding Standard.pdf`
+- `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/jinput_license.txt`
+- `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/jogl_license.txt`
+- `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/lzma_license.txt`
+- `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/openal_license.txt`
+- `reports/stuff/Docs/lwjgl-2.9.0/res/resources.txt`
+- `reports/stuff/Docs/questionare.rtf`
+- `reports/stuff/Docs/Rasterization a line.pdf`
+- `reports/stuff/Docs/RecitationWeek1.docx`
+- `reports/stuff/Docs/Unix Reference Card.pdf`
+- `reports/stuff/Docs/www.cs.rit.edu_~vcss243_Recitations_01_worksheet.pdf`
+- `reports/stuff/Others/RecitationWeek1.txt`
+- `reports/tessellation.pdf`
+- `reports/test-all.input.txt`
+- `reports/test-power.input.txt`
+- `reports/test-tune3.input.txt`
+- `reports/test-volume1.input.txt`
+- `reports/test.txt`
+- `reports/TravisBrown/Battleship/JavaProject2/A.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/B.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/C.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/D.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/download.jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/E.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/F.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/G.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/H.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/I.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (12).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (13).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (14).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (15).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (16).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (17).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (4).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (8).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/K.jpg`
+- `reports/TravisBrown/Battleship/Project2/A.jpg`
+- `reports/TravisBrown/Battleship/Project2/B.jpg`
+- `reports/TravisBrown/Battleship/Project2/BattleShip.java`
+- `reports/TravisBrown/Battleship/Project2/battleship.jpeg`
+- `reports/TravisBrown/Battleship/Project2/BattleShipFrame.java`
+- `reports/TravisBrown/Battleship/Project2/BattleShipModel.java`
+- `reports/TravisBrown/Battleship/Project2/BattleShipTextView.java`
+- `reports/TravisBrown/Battleship/Project2/Board.java`
+- `reports/TravisBrown/Battleship/Project2/C.jpg`
+- `reports/TravisBrown/Battleship/Project2/Cell.java`
+- `reports/TravisBrown/Battleship/Project2/CellButton.java`
+- `reports/TravisBrown/Battleship/Project2/Cells.java`
+- `reports/TravisBrown/Battleship/Project2/CheatFrame.java`
+- `reports/TravisBrown/Battleship/Project2/D.jpg`
+- `reports/TravisBrown/Battleship/Project2/E.jpg`
+- `reports/TravisBrown/Battleship/Project2/F.jpg`
+- `reports/TravisBrown/Battleship/Project2/G.jpg`
+- `reports/TravisBrown/Battleship/Project2/H.jpg`
+- `reports/TravisBrown/Battleship/Project2/I.jpg`
+- `reports/TravisBrown/Battleship/Project2/ImageSplitTest.java`
+- `reports/TravisBrown/Battleship/Project2/K.jpg`
+- `reports/TravisBrown/Battleship/Project2/MyException.java`
+- `reports/TravisBrown/Battleship/Project2/Ship.java`
+- `reports/TravisBrown/Battleship/Project2/Water.java`
+- `reports/TravisBrown/lab1/lab1/InsertionSort.java`
+- `reports/TravisBrown/lab1/lab1/PizzaRun.java`
+- `reports/TravisBrown/lab1/lab1/postLabReport.txt`
+- `reports/TravisBrown/lab1/lab1/Snowflake.java`
+- `reports/TravisBrown/lab1/lab1/StdDraw.java`
+- `reports/TravisBrown/lab1/lab1/Turtle.java`
+- `reports/TravisBrown/lab2/pokerhand/Card.java`
+- `reports/TravisBrown/lab2/pokerhand/Computer.java`
+- `reports/TravisBrown/lab2/pokerhand/Deck.java`
+- `reports/TravisBrown/lab2/pokerhand/Human.java`
+- `reports/TravisBrown/lab2/pokerhand/Poker.java`
+- `reports/TravisBrown/lab2/pokerhand/PokerHand.java`
+- `reports/TravisBrown/lab2/pokerhand/Ranks.java`
+- `reports/TravisBrown/lab2/pokerhand/Suits.java`
+- `reports/TravisBrown/lab3/PassengerPriority/Flight.java`
+- `reports/TravisBrown/lab3/PassengerPriority/HeapQueue.java`
+- `reports/TravisBrown/lab3/PassengerPriority/LinkedListQueue.java`
+- `reports/TravisBrown/lab3/PassengerPriority/Passenger.java`
+- `reports/TravisBrown/lab3/PassengerPriority/PriorityQueue.java`
+- `reports/TravisBrown/lab4/BookStore/AudioBook.java`
+- `reports/TravisBrown/lab4/BookStore/Book.java`
+- `reports/TravisBrown/lab4/BookStore/CassetteBook.java`
+- `reports/TravisBrown/lab4/BookStore/ElectronicBook.java`
+- `reports/TravisBrown/lab4/BookStore/HardcoverBook.java`
+- `reports/TravisBrown/lab4/BookStore/Media.java`
+- `reports/TravisBrown/lab4/BookStore/PaperbackBook.java`
+- `reports/TravisBrown/lab4/BookStore/Store.java`
+- `reports/TravisBrown/lab5/BinSet.java`
+- `reports/TravisBrown/lab6/BookStoreApp/AudioBook.java`
+- `reports/TravisBrown/lab6/BookStoreApp/BarneysBooks.java`
+- `reports/TravisBrown/lab6/BookStoreApp/Book.java`
+- `reports/TravisBrown/lab6/BookStoreApp/CassetteBook.java`
+- `reports/TravisBrown/lab6/BookStoreApp/ElectronicBook.java`
+- `reports/TravisBrown/lab6/BookStoreApp/GViewControl.java`
+- `reports/TravisBrown/lab6/BookStoreApp/HardcoverBook.java`
+- `reports/TravisBrown/lab6/BookStoreApp/input.txt`
+- `reports/TravisBrown/lab6/BookStoreApp/Media.java`
+- `reports/TravisBrown/lab6/BookStoreApp/PaperbackBook.java`
+- `reports/TravisBrown/lab6/BookStoreApp/Store.java`
+- `reports/TravisBrown/lab6/BookStoreApp/storeName.png`
+- `reports/TravisBrown/lab7/Redacter/-AliceChapter1.redacted.txt`
+- `reports/TravisBrown/lab7/Redacter/alice-redacts.txt`
+- `reports/TravisBrown/lab7/Redacter/AliceChapter1.txt`
+- `reports/TravisBrown/lab7/Redacter/MyException.java`
+- `reports/TravisBrown/lab7/Redacter/Redact.java`
+- `reports/TravisBrown/lab7/Redacter/RedactWriter.java`
+- `reports/TravisBrown/Lab8/TrollsBridge/RunWoolies.java`
+- `reports/TravisBrown/Lab8/TrollsBridge/TrollsBridge.java`
+- `reports/TravisBrown/Lab8/TrollsBridge/Woolie.java`
+- `reports/TravisBrown/PrinterSim/data-in.txt`
+- `reports/TravisBrown/stuff/lab1/InsertionSort.java`
+- `reports/TravisBrown/stuff/lab1/PizzaRun.java`
+- `reports/TravisBrown/stuff/lab1/postLabReport.txt`
+- `reports/TravisBrown/stuff/lab1/Snowflake.java`
+- `reports/TravisBrown/stuff/lab1/StdDraw.java`
+- `reports/TravisBrown/stuff/lab1/Turtle.java`
+- `reports/TravisBrown/stuff/lab2/Card.java`
+- `reports/TravisBrown/stuff/lab2/Computer.java`
+- `reports/TravisBrown/stuff/lab2/Deck.java`
+- `reports/TravisBrown/stuff/lab2/Human.java`
+- `reports/TravisBrown/stuff/lab2/Poker.java`
+- `reports/TravisBrown/stuff/lab2/PokerHand.java`
+- `reports/TravisBrown/stuff/lab2/Ranks.java`
+- `reports/TravisBrown/stuff/lab2/Suits.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/A.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/B.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/BattleShip.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/battleship.jpeg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/BattleShipFrame.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/BattleShipModel.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/BattleShipTextView.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/Board.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/C.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/Cell.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/CellButton.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/Cells.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/CheatFrame.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/D.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/E.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/F.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/G.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/H.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/I.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/ImageSplitTest.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/K.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/MyException.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/Ship.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/Water.java`
+- `reports/tut1a.pdf`
+- `reports/Unix Reference Card.pdf`
+- `reports/WhatIsCG.pdf`
+- `reports/www.cs.rit.edu_~vcss243_Recitations_01_worksheet.pdf`
+- `reports/xanadu (2013_03_30 07_27_35 UTC).txt`
+- `reports/xanadu.txt`
 
-- `reports/`: 591 file(s)
-- `presentations/`: 2 file(s)
+## Presentations
 
-## Notes
-
-Only folders with actual GitHub-stored files are listed here. Heavy/video/data-only material stays in Drive and is listed in `DRIVE_ONLY.md` when detected.
+- `presentations/2IV60_1_intro.ppt`
+- `presentations/Crypto/CryptoHw3/Lecture16.ppt`
+- `presentations/CV_Lec02_MATLAB (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/Lecture16.ppt`
+- `presentations/stuff/Docs/CV_Lec02_MATLAB (2013_03_30 07_27_35 UTC).ppt`

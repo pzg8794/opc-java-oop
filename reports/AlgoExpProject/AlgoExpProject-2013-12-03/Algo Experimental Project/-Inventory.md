@@ -1,0 +1,71 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Algo Experimental Project
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `51(1).jpg` - File, 155.4 KB.
+- `51(2).jpg` - File, 152.1 KB.
+- `51(3).jpg` - File, 47.4 KB.
+- `51.pdf` - File, 191.0 KB.
+- `52(1).jpg` - File, 222.7 KB.
+- `52(2).jpg` - File, 227.0 KB.
+- `52(3).jpg` - File, 55.5 KB.
+- `71.png` - File, 60.6 KB.
+- `72.png` - File, 56.8 KB.
+- `c1.png` - File, 64.5 KB.
+- `c2.png` - File, 59.1 KB.
+- `c3.png` - File, 92.3 KB.
+- `c4.png` - File, 130.6 KB.
+- `d1.jpg` - File, 11.4 KB.
+- `d2.jpg` - File, 14.2 KB.
+- `d3.png` - File, 53.5 KB.
+- `d4.png` - File, 64.8 KB.
+- `d5.jpg` - File, 8.7 KB.
+- `dirList.docx` - File, 15.3 KB.
+- `f.jpg` - File, 15.3 KB.
+- `FinalReport.pdf` - File, 100.0 KB.
+- `fly.jpg` - File, 3.8 KB.
+- `GUIDE.PDF` - File, 293.4 KB.
+- `h1.jpg` - File, 21.6 KB.
+- `h2.jpg` - File, 12.4 KB.
+- `h3.jpg` - File, 5.4 KB.
+- `h4.png` - File, 61.0 KB.
+- `h5.png` - File, 72.5 KB.
+- `h6.jpg` - File, 8.5 KB.
+- `hls.png` - File, 9.5 KB.
+- `hls1.png` - File, 15.9 KB.
+- `hls2.png` - File, 14.9 KB.
+- `hls3.png` - File, 13.0 KB.
+- `hls4.png` - File, 16.4 KB.
+- `HLSm.jpg` - File, 227.5 KB.
+- `HLSm.pdf` - File, 131.0 KB.
+- `hsl.png` - File, 9.5 KB.
+- `hsl2.png` - File, 14.9 KB.
+- `hsl3.png` - File, 13.0 KB.
+- `hsl4.png` - File, 16.4 KB.
+- `hspr-1.jpg` - File, 311.7 KB.
+- `hspr-2.jpg` - File, 64.7 KB.
+- `hspr.pdf` - File, 226.4 KB.
+- `j.jpg` - File, 18.0 KB.
+- `m1.jpg` - File, 8.1 KB.
+- `m2.jpg` - File, 6.0 KB.
+- `m3.png` - File, 63.0 KB.
+- `m4.png` - File, 67.0 KB.
+- `m5.jpg` - File, 9.2 KB.
+- `n1.png` - File, 39.9 KB.
+- `n2.png` - File, 31.3 KB.
+- `n3.png` - File, 6.3 KB.
+- `QuadraticAV.txt` - File, 3.3 KB.
+- `README.TXT` - File, 1.1 KB.
+- `report - Copy.pdf` - File, 68.9 KB.
+- `report.pdf` - File, 2.5 MB.
+- `report.tex` - File, 21.1 KB.
+- `REPORT_INITIAL.PDF` - File, 116.3 KB.
+- `sig-alternate.tex` - File, 25.0 KB.
+- `SPR-51.pdf` - File, 190.3 KB.
+- `SPR-52.pdf` - File, 174.6 KB.
+- `spr.pdf` - File, 180.0 KB.
+- `TestData1.jpg` - File, 240.5 KB.
+- `TestData2.jpg` - File, 174.8 KB.

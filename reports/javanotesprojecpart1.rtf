@@ -1,0 +1,27 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf370
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;\red63\green127\blue95;}
+\margl1440\margr1440\vieww13440\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs22 \cf2 //		create an empty queue as an ArrayList<Integer>\cf0 \
+\cf2 //		create an ArrayList<Integer> of one element from the starting \ul config\ulnone  and enqueue it\cf0 \
+\cf2 //		set found to whether the starting \ul config\ulnone  is the goal \ul config\ulnone , or not\cf0 \
+\cf2 //\cf0 \
+\cf2 //		while the queue is not empty and not found:\cf0 \
+\cf2 //		    dequeue the front element from the queue and set it to current\cf0 \
+\cf2 //		    for each neighbor of the last element in current:\cf0 \
+\cf2 //		        create an ArrayList<Integer> for the next \ul config\ulnone  and make it a copy of current\cf0 \
+\cf2 //		        append the neighbor to the next \ul config\cf0 \ulnone \
+\cf2 //		        if the next \ul config\ulnone  is the goal:\cf0 \
+\cf2 //		            set current to the next \ul config\cf0 \ulnone \
+\cf2 //		            set found to true\cf0 \
+\cf2 //		            break out of the for loop\cf0 \
+\cf2 //		        else:\cf0 \
+\cf2 //		            enqueue the next \ul config\cf0 \ulnone \
+\cf2 //		            \cf0 \
+\cf2 //		if found:\cf0 \
+\cf2 //		    current is the solution\cf0 \
+\cf2 //		else:\cf0 \
+\cf2 //		    there is no solution}

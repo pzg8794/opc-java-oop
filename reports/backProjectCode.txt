@@ -1,0 +1,464 @@
+import java.util.LinkedList;
+
+
+public class PrinterSim {
+
+	private int n;
+	private int id;
+	private int ticks;
+	private int pri = 0;
+	private PQueue pingQ;
+	private Source pingS;
+	private int printersN;
+	private PQueue comingQ;
+	private Source comingS;
+	
+	private boolean available;
+	private static int prio = -1;
+	private boolean head = false;
+	private boolean empty = true;
+	private static int counter = 0;
+	private static int disconect = 0;
+	private static int numOfPrints = 0;
+	
+	private LinkedList<PQueue> wListQ = new LinkedList<PQueue>(); 
+	private LinkedList<Source> wListS = new LinkedList<Source>();
+	private LinkedList<PrinterSim> list = new LinkedList<PrinterSim>();
+	private static LinkedList<Integer> pInUse = new LinkedList<Integer>();
+	
+
+
+	public PrinterSim(int managerN) {
+		
+		printersN = managerN;
+		list = new LinkedList<PrinterSim>();
+		
+		int i = -1;
+		while( ++i != printersN)
+			list.add(new PrinterSim(managerN, i));
+			
+		
+		System.out.println("Created the following printers: \n");
+		for(PrinterSim p: list)
+			System.out.println("Printer #" + p.id);
+		
+		System.out.println("\nSimulation begins ...");
+	}
+	
+	
+	
+	
+	public PrinterSim(int managerN, int i) {
+		id = i;
+		printersN = managerN;
+	}
+
+	
+	
+	
+	
+	public PrinterSim(PQueue qhookUp, Source hookUp) {
+		this.add(qhookUp, hookUp);
+		id = counter;
+		counter++;
+	}
+
+	
+	
+	
+	public void setPrinters(LinkedList<PQueue> qhookUp,
+			LinkedList<Source> hookUp) {
+		
+		
+		empty = empty();
+		
+		while(!qhookUp.isEmpty()){
+			
+			if(hookUp.peek() != null){
+				comingQ = qhookUp.peek();
+				comingS = hookUp.peek();
+
+				ticks = hookUp.peek().getTicks();
+				int avel = -1;
+				boolean stop= false;
+
+				avel = printerLookUp();	
+
+				for(int x = 0; x< counter; x++){
+
+						System.out.println("WAITING LIST "+  x + " "+ list.get(x).wListS );
+					if(list.get(x).pingQ != null){
+						if(list.get(x).pingQ.getId() != qhookUp.peek().getId()){
+
+								System.out.println("empty "+  x + " "+ list.get(x).pingS + " " +
+								list.get(x).pingS.timeLeft() );
+								
+							if(list.get(x).pingS.isDonePrinting() && list.get(x).pri == prio){
+
+								refillNL(x);
+								avel = -1;
+								stop = true;
+
+							}else if( list.get(x).pingS.isDonePrinting()){
+								//	System.out.println("TESTING AGAIN " + list.get(x).pingS);
+								//	list.get(x).wListQ.add(comingQ);
+								//	list.get(x).wListS.add(comingS);
+								avel = x;
+							}
+						}
+					}
+				}
+
+				if((avel != -1 && !pInUse.contains(qhookUp.peek().getId()))){
+
+					useAnotherPrinter(avel);
+					if(empty){
+						pInUse.add(list.get(avel).pingQ.getId());
+						list.get(avel).head = true;
+					}
+
+				}else if(!stop){
+
+					vacancy();
+				}
+				status(hookUp.peek().getTicks());
+				hookUp.poll();
+				qhookUp.poll();
+			}
+		}
+	}
+
+
+	
+	
+	private boolean empty() {
+		
+		for(PrinterSim ps: list){
+			if(ps.pingQ != null)
+				return false;
+		}
+		return true;
+	}
+
+
+
+
+	private void vacancy() {
+		
+		for( PrinterSim ps: list){
+			
+			if(ps.pingQ.getId() == comingQ.getId()){
+
+				checkAvel(ps, comingQ, comingS);
+				break;
+				
+			}else if( ps.wListS.isEmpty()){
+	
+				checkAvel(ps, comingQ, comingS);
+				break;
+			}
+		}
+		
+	}
+
+	
+	
+	
+	private void useAnotherPrinter(int avel) {
+			System.out.println(" PA "+ avel);
+		list.get(avel).add(comingQ, comingS);
+		list.get(avel).available = true;
+	}
+
+	
+	
+	
+	private void refillNL(int x) {
+		
+		// System.out.println("empty2 " + list.get(x).pingS);
+		for(int i = 0; i< pInUse.size(); i++)
+			if( pInUse.get(i) == list.get(x).pingQ.getId())
+				pInUse.remove(i);
+		
+		if( list.get(0).pingQ.getId() != comingQ.getId() ){
+
+			disconect = list.get(x).pingQ.getId();
+			//	System.out.println(list.get(x).pingQ.getId() + " ALSO4 " + comingQ.getId());
+			if(list.get(x).pingQ.getId() != list.get(x).pingQ.getId())
+				System.out.println("Queue #"+ list.get(x).pingQ.getId() + " has been disconnected.");
+			
+			//	System.out.println("TESTING3");
+			list.get(x).pingQ = comingQ;
+			list.get(x).pingS = comingS;
+		}
+		else {
+			//	System.out.println("COMING S "+ comingS);
+			list.get(0).wListQ.add(comingQ);
+			list.get(0).wListS.add(comingS);
+			//	checkAvel(list.get(x), comingQ, comingS);	
+		}
+	}
+
+	
+	
+	
+	private void status(Integer ticks2) {
+		//	System.out.println("UPDATING");
+		if( ticks2 > 0){
+			for(int i= 0; i< ticks ; i++ ){
+				update();
+				this.startPrint(n);
+			}
+		}
+		
+	}
+
+	
+	
+	
+	private void checkAvel(PrinterSim ps, PQueue pQueue, Source source) {
+		//	System.out.println(" ALSO3 ");
+		if( ps.pingS.timeLeft() != 0 ){
+			
+			ps.wListQ.add(pQueue);
+			ps.wListS.add(source);
+			ps.available = true;
+			
+		}else if(ps.pingQ.getId() == pQueue.getId()){
+			
+			ps.pingQ = pQueue;
+			ps.pingS = source;
+			ps.available = true;
+			//	System.out.println(" ALSO3 ");
+		}
+		
+	}
+
+	
+	
+	
+	private int printerLookUp() {
+		int avel = -1;
+		for(int x = 0; x< list.size(); x++){
+			if(list.get(x).isAvailable() || !list.get(x).available){
+				avel = x;
+				break;
+			}
+		}
+		return avel;
+	}
+
+	
+	
+	
+	private void add(PQueue first, Source peek) {
+		
+		if(this.pingQ != null){
+			disconect = this.pingQ.getId();
+			// System.out.println(this.pingQ.getId() + " ALSO1 " + first.getId());	
+		}
+		
+		this.pingQ = first;
+		this.pingS = peek;
+		if(counter!= printersN)
+		counter++;
+	}
+
+	
+	
+	private void update() {
+		boolean stop = false;
+	
+		//	System.out.println("Update Method");
+		for(int x = 0; x< counter; x++){
+	
+			//	System.out.println(s.timeLeft());
+			if(list.get(x).available){
+				
+				if(list.get(x).pingS.startedPrinting()){
+					
+					if(list.get(x).pingS.isDonePrinting()){
+						//	System.out.println("DONE ");
+							finish(x);
+							
+						if( list.get(x).pingS.empty && !list.get(x).wListS.isEmpty()){
+							stop = refillWL(x);
+						}
+						
+					}else{
+						
+						keepPrinting(x);
+									
+					}
+					
+					if(stop)
+						list.get(x).pri = -1;
+					
+					list.get(x).pingS.keepPrinting();
+			
+				}else{
+					
+					start(x);
+
+				}
+			}
+		}
+	}
+
+	
+	
+	
+	private boolean refillWL(int x) {
+		//	System.out.println("Here");
+		//	Queue #1 has been disconnected.
+		//  System.out.println(list.get(x).pingQ.getId() + " ALSO2 " + list.get(x).wListQ.peek().getId());
+		if(list.get(x).pingQ.getId() != list.get(x).wListQ.peek().getId())
+			System.out.println("Queue #"+ list.get(x).pingQ.getId() + " has been disconnected.");
+		
+		//	System.out.println(list.get(x).qId + " ALSO " + list.get(x).wListQ.peek().getId());
+		list.get(x).pingQ = list.get(x).wListQ.poll();
+		list.get(x).pingS = list.get(x).wListS.poll();
+	
+		startWL(x);
+		return true;
+	}
+
+	
+	
+	
+	private void startWL(int x) {
+		list.get(x).pingS.start();
+		if(!pInUse.contains(list.get(x).pingQ.getId())){
+
+			if(disconect != list.get(x).pingQ.getId() & disconect != 0 )
+				System.out.println("Queue #"+ disconect + " has been disconnected.");
+			
+			System.out.println("Queue #" + list.get(x).pingQ.getId() + " is now hookedup to Printer #"
+					+ list.get(x).id+".");
+			String r = "";
+			for( Resource s1: list.get(x).pingS.getResources())
+				r += " " + s1.getTypeName() + " " + s1;
+			System.out.println("Printer #" + list.get(x).id + " now has resources " + r);
+			pInUse.add(list.get(x).pingQ.getId());
+			empty = false;
+		}
+		System.out.println("Printer #" + list.get(x).id + " is starting " + list.get(x).pingS);
+	}
+
+	
+	
+	
+	private void keepPrinting(int x) {
+		System.out.println("Printer #" + list.get(x).id + " is still printing " + list.get(x).pingS
+				+ ", time left = " + list.get(x).pingS.timeLeft());
+	}
+
+	
+	
+	
+	private void finish(int x) {
+		
+		if(!list.get(x).pingS.empty){
+				System.out.println("Printer #" + list.get(x).id + " has finished printing " 
+				+ list.get(x).pingS+".");
+
+					System.out.println(numOfPrints);
+				numOfPrints++;
+		}
+		
+		list.get(x).pingS.empty = true;
+		list.get(x).pri = ++prio;		
+	}
+
+	
+	
+	
+	private void start(int x) {
+		
+		list.get(x).pingS.startPrinting();
+		if(!pInUse.contains(list.get(x).pingQ.getId()) || list.get(x).head){
+
+			if(disconect != list.get(x).pingQ.getId() && disconect != 0)
+				System.out.println("Queue #"+ disconect + " has been disconnected.");
+			
+			System.out.println("Queue #" + list.get(x).pingQ.getId() + " is now hookedup to Printer #"
+					+ list.get(x).id + ".");
+			String r = "";
+			for( Resource s1: list.get(x).pingS.getResources())
+				r += " " + s1.getTypeName() + " " + s1;
+			System.out.println("Printer #" + list.get(x).id + " now has resources " + r);
+			pInUse.add(list.get(x).pingQ.getId());
+			list.get(x).head = false;
+			disconect = 0;
+		}
+		System.out.println("Printer #" + list.get(x).id + " is starting " + list.get(x).pingS);	
+	}
+
+	
+	
+	
+	private boolean isAvailable() {
+		
+		if(this.id > counter){
+			for(int i = 0; i< counter; i++){
+				if( list.get(i).pingQ.empty)
+					return false;
+			}
+				
+		}
+		if( this.pingS == null )
+			return true;
+		else{
+			
+			return false;
+		}
+	}
+
+
+	
+	
+	public void startPrint(int sizes) {
+
+		System.out.println("\n---------------------------------");
+		System.out.println("The time is now " + n++);
+		System.out.println("---------------------------------");
+	}
+
+	
+	
+	
+	
+	public void setPrinters(LinkedList<PQueue> qhookUp,
+			LinkedList<Source> hookUp, Integer ticks) {
+		
+			setPrinters(qhookUp, hookUp);
+			qhookUp.clear();
+			hookUp.clear();
+	}
+
+	
+	
+	
+	public void endOfFile(int totalSize) {
+		System.out.println(totalSize);
+		
+		if( numOfPrints < totalSize){
+			
+			while(numOfPrints != totalSize-1){
+
+				update();
+				if(numOfPrints != totalSize-1)
+					startPrint(n);
+			}
+			//	update();
+			System.out.println("\nSimulation Complete.");
+		}
+	}
+	
+	
+	
+	
+	public String toString(){
+		return this.pingQ + " " + this.pingS;
+	}
+}
