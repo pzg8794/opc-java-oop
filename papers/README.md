@@ -1,15 +1,14 @@
-# Crypto
+# papers
 
-Path: `Crypto`
+Path: `papers`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Paper/research/proposal materials staged for future Overleaf conversion.
 
 ## Items
 
-- `CryptoEC/` (folder)
-- `CryptoHW1/` (folder)
+- No items currently classified here.
 
 ## Notes
 

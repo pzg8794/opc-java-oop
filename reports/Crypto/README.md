@@ -1,14 +1,13 @@
 # Crypto
 
-Path: `Crypto`
+Path: `reports/Crypto`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
 
 ## Items
 
-- `CryptoEC/` (folder)
 - `CryptoHW1/` (folder)
 
 ## Notes

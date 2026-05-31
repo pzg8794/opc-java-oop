@@ -1,15 +1,14 @@
 # CryptoHW1
 
-Path: `Crypto/CryptoHW1`
+Path: `reports/Crypto/CryptoHW1`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
 
 ## Items
 
-- `GCD.java` (file)
-- `IOC.java` (file)
+- `Crypto Homework 1.pdf` (file)
 
 ## Notes
 

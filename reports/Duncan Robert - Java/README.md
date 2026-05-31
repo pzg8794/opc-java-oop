@@ -1,10 +1,10 @@
 # Duncan Robert - Java
 
-Path: `Duncan Robert - Java`
+Path: `reports/Duncan Robert - Java`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
 
 ## Items
 
