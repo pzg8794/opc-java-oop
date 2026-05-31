@@ -1,0 +1,1040 @@
+WBGZVJEWJISRJFXGPLMIQROXWGXHSNNEFOLWDVQKBQOIAUBNXZSJKTQBIAQLVXWQXCGLPTGHOTYNWGOHOWJXMIEJHHNXIDDMBUTWTLJBNHQGRORMJKRQUCYULKUGBHTEXRBQXUJEOWCWRXWBAEDCHMZZIOQEJ
+OPPVVWYYNUSAOANXFLUMKUPZJDVACISDPKHHULZAECTPVEZPZFXPYVOVNWZXQGTGKJKACTHBGHIRTEEEMMSPUEHQUQEHSGMHTQDHIIOIAWBGZEZDNDZMVWNAEAGPDNJAEOKBREKLXQDNVRNEJBPFFCMKMTNOZ
+UOIHVETNICAFWRAFGHMULGHPWICJKCPOOSZVMXRBBFCWRYUUFPXLHLCCJGGWFETZJOVWXNNAYNATVQQOJHQDZJKUZXAKDKLSRTHKJNGLKMLBDFXOHUYNZVZGZWWMLHJRQJRNNKTEKWQLRAGIQHVZAYGKRWDKDKV
+Letters Repeated: [N, H, D, Z, P, V, Y, E, M, I, F, O, B, U, C, G, Q, W]
+Time No Repeated: [3, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Number of Coincidences: 22
+
+Letters Repeated: [O, T, R, W, A, Z, V, G, K, E, Q, I, D, M, L]
+Time No Repeated: [1, 1, 1, 1, 2, 4, 1, 1, 3, 1, 1, 1, 2, 1, 1]
+Number of Coincidences: 22
+
+Letters Repeated: [J, X, Q, U, W, H, I, N, O, C, A, L, R, K]
+Time No Repeated: [2, 2, 1, 3, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1]
+Number of Coincidences: 19
+
+Letters Repeated: [J, Q, G, T, R, X, O, P, U, H, Z, K, A, F, N]
+Time No Repeated: [1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 3, 2, 1, 1, 1]
+Number of Coincidences: 21
+
+Letters Repeated: [Q, W, J, E, H, G, K]
+Time No Repeated: [2, 2, 2, 3, 2, 1, 2]
+Number of Coincidences: 14
+
+Letters Repeated: [B, O, R, U, N, D, E, Z, A, I, K, Q]
+Time No Repeated: [2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 2, 1]
+Number of Coincidences: 16
+
+Letters Repeated: [W, J, G, I, B, T, E, N, P, F, K, A]
+Time No Repeated: [1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1]
+Number of Coincidences: 13
+
+Letters Repeated: [L, H, O, X, K, E, Z, P, Q, A, J, W, G]
+Time No Repeated: [1, 2, 1, 1, 2, 3, 1, 1, 1, 1, 1, 1, 1]
+Number of Coincidences: 17
+
+Letters Repeated: [X, O, B, Q, H, C, U, V, G, R, D, L]
+Time No Repeated: [3, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1]
+Number of Coincidences: 16
+
+Letters Repeated: [I, R, G, H, J, E, P, Z, S, Q, T, N, V]
+Time No Repeated: [1, 2, 1, 1, 1, 3, 1, 2, 1, 2, 1, 1, 1]
+Number of Coincidences: 18
+
+Letters Repeated: [O, W, G, M, U, R, P, V, E, D, K]
+Time No Repeated: [1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1]
+Number of Coincidences: 13
+
+Letters Repeated: [X, O, U, A, Z, E, W, N, C, F, L, R, V]
+Time No Repeated: [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1]
+Number of Coincidences: 14
+
+Letters Repeated: [G, K, Q, I, A, X, B, C, H, E, M, D, N, T, R]
+Time No Repeated: [1, 4, 1, 1, 1, 3, 1, 3, 3, 2, 1, 2, 1, 1, 1]
+Number of Coincidences: 26
+
+Letters Repeated: [W, N, U, A, T, M, G, D, B, H, O]
+Time No Repeated: [1, 3, 1, 1, 1, 1, 1, 1, 1, 2, 1]
+Number of Coincidences: 14
+
+Letters Repeated: [B, N, J, R, U, Z, P, D, A, G, E, W, L, K]
+Time No Repeated: [1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Number of Coincidences: 16
+
+Letters Repeated: [Q, X, T, H, M, G, O, A, C, W, J, D, N]
+Time No Repeated: [3, 1, 1, 2, 1, 1, 1, 2, 1, 3, 1, 1, 1]
+Number of Coincidences: 19
+
+Letters Repeated: [W, L, N, Q, H, U, O, A, K, C, I, G]
+Time No Repeated: [1, 1, 3, 1, 3, 1, 1, 1, 1, 2, 1, 1]
+Number of Coincidences: 17
+
+Letters Repeated: [S, Q, N, H, W, E, U, V, J, M, X, K, L]
+Time No Repeated: [1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1]
+Number of Coincidences: 16
+
+Letters Repeated: [F, W, X, U, L, R, B, P, E, H, A, K]
+Time No Repeated: [2, 2, 1, 2, 1, 1, 1, 2, 3, 1, 1, 1]
+Number of Coincidences: 18
+
+Letters Repeated: [O, Q, T, J, H, E, W, P, S, L, Z, F, C]
+Time No Repeated: [1, 1, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1]
+Number of Coincidences: 17
+
+Letters Repeated: [Q, B, R, C, O, P, H, G, M, N, K, V, F, Z, J, X, L]
+Time No Repeated: [1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1]
+Number of Coincidences: 20
+
+Letters Repeated: [X, S, Q, U, J, V, H, N, T, R, K]
+Time No Repeated: [2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1]
+Number of Coincidences: 13
+
+Letters Repeated: [G, V, W, H, Q, Z, A, E, P, M, I]
+Time No Repeated: [2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1]
+Number of Coincidences: 14
+
+Letters Repeated: [W, I, A, E, V, N, F, J, K]
+Time No Repeated: [2, 1, 1, 2, 1, 1, 1, 1, 1]
+Number of Coincidences: 11
+
+
+Displacement:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+Coincidences:[22, 22, 19, 21, 14, 16, 13, 17, 16, 18, 13, 14, 26, 14, 16, 19, 17, 16, 18, 17, 20, 13, 14, 11]
+Key length is:13
+Max Coincidences is:26
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  OIA| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  KDK| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  KDK| Count: 02 Location: null)
+Key length is:0
+Max Coincidences is:( Letter:  KDK| Count: 02 Location: null)
+
+
+All Repeated: [( Letter:  OIA| Count: 02 Location: null)]
+
+
+Highest Freq: 
+( Letter:  OIA| Count: 02 Location: null)
+Key length is:0
+Ma

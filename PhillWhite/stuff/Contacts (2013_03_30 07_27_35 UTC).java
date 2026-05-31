@@ -1,0 +1,265 @@
+import java.util.Vector;
+
+/* 
+ *  Created:      02/07/2012
+ *  Last Changed: 02/07/2012
+ *  
+ *  Contacts.java
+ * 
+ *  Version:
+ *     $Id$
+ *
+ *  Revisions:
+ *     $Log$
+ */
+
+/**
+ * This class is the Model for the AddressBook.
+ * This class has all the function which controls the data
+ * @author  Wander Bravo	ID :  wmb1306 	RIT ID : 110006833
+ * @author  Piter Garcia	ID :  pzg8794 	RIT ID : 110006833
+ * 
+ */
+
+
+/**
+ * A hardcoded database of work and friend contacts containing
+ * names and phone numbers.
+ * 
+ * @author sps (Sean Strout)
+ */
+
+public class Contacts {
+	// Vector that will be showed for Autocomplete purpose
+	public static Vector vector=new Vector();
+	// Vector that will have the original data
+	public static Vector vectorOriginal = new Vector();
+    
+    /**
+     * Names of work people.
+     */
+    public static String[] workNames = { 
+        "Mitsue Tani",
+        "Amelia McGuiness",
+        "Austin Irwin",
+        "David Ponte",
+        "Maria Casillas",
+        "Klaus Zimmer",
+        "Arvind Poortvliet",
+        "Kimberly Bryant",
+        "Robert Foss",
+        "Veronica Hartnoll",
+        "Barry Peters",
+        "Melanie Morris",
+        "Dorian Mota",
+        "Melisande Paiement",
+        "Elias Stuinen",
+        "Luke Gilbert",
+        "Orpheo Meijerhof",
+        "Marijke Thorsen",
+        "Christopher Hogan",
+        "Veijo Hurme",
+        "Donna Scott",
+        "Brenda Thomas",
+        "Martin Biermann",
+        "Alvedin Bauk",
+        "Christy Reynolds",
+        "Dale Escobar",
+        "Julia Ebersbacher",
+        "Elisa Baresi",
+        "Cui Teng",
+        "Pal Majer",
+        "Arika Fujii",
+        "Janek Maciejewski",
+        "Horace Provost",
+        "Mary Rainey",
+    };
+
+    /**
+     * Phone number for work people.  Each phone number
+     * entry lines up with the names in 'workNames'.
+     */
+    public static String[] workNumbers = {
+        "501-645-0791",
+        "502-519-4634",
+        "317-716-6323",
+        "817-941-8660",
+        "703-224-8177",
+        "734-876-8318",
+        "845-225-2412",
+        "478-967-9476",
+        "706-283-9218",
+        "520-838-0633",
+        "760-951-2970",
+        "419-980-0128",
+        "919-477-2904",
+        "478-553-3218",
+        "410-418-9516",
+        "916-771-3266",
+        "413-526-1632",
+        "845-756-2888",
+        "757-935-8572",
+        "469-362-6326",
+        "541-563-2254",
+        "484-544-4646",
+        "661-302-6845",
+        "301-905-3083",
+        "513-629-1553",
+        "330-948-2674",
+        "913-727-1550",
+        "704-201-9570",
+        "715-348-8673",
+        "615-823-2105",
+        "631-558-5171",
+        "830-778-9357",
+        "954-877-1843",
+        "304-702-4314",
+    };
+    /**
+     * Names of friends.
+     */
+    public static String[] friendNames = { 
+        "Lindsay Graf",
+        "Austin White",
+        "Martin Biermann",
+        "Joanne Stevenson",
+        "Dorian Mota",
+        "Ayat Morcos",
+        "Melanie Morris",
+        "Michael Moyer",
+        "Anna Walker",
+        "James Green",
+        "Christopher Plummer",
+        "Helen Davis",
+        "Ricky Martin",
+        "Timothy Rucker",
+        "Patricia Flowers",
+        "James Williams",
+        "Amina Sparks",
+        "Vicky Ortiz",
+        "Carlene Crocker",
+        "Jeremy Mitchell",
+        "Emma Bedford",
+        "Daniel Hawkins",
+        "David Ponte",
+        "William Mills",
+        "Christy Reynolds",
+        "Travis Woodward",
+        "Christine Williamson",
+        "Horace Provost",
+        "Goergann Kaufmann",
+        "Elaine Bernal",
+        "David Jackson",
+        "Shelby Hazard",
+        "Michael Trimble",
+        "Maria Jackson",
+        "Dennis Hargrave",
+        "James Acosta",
+        "Robin Lombardo",
+        "Arika Fujii"
+    };
+
+    /**
+     * Phone number for friends.  Each phone number
+     * entry lines up with the names in 'friendNames'.
+     */
+    public static String[] friendNumbers = {
+        "760-585-0378",
+        "630-514-7091",
+        "661-302-6845",
+        "505-709-3984",
+        "919-477-2904",
+        "774-324-8809",
+        "419-980-0128",
+        "609-690-5118",
+        "216-444-9932",
+        "313-996-2445",
+        "806-267-5553",
+        "856-342-4207",
+        "334-429-8338",
+        "712-251-2405",
+        "727-817-0463",
+        "858-947-1497",
+        "678-417-4260",
+        "203-439-6731",
+        "803-496-1061",
+        "732-766-2437",
+        "870-662-3144",
+        "617-836-3716",
+        "817-941-8660",
+        "765-313-6158",
+        "513-629-1553",
+        "717-612-8222",
+        "979-778-1450",
+        "954-877-1843",
+        "973-465-1950",
+        "781-570-7554",
+        "301-560-2311",
+        "330-874-9433",
+        "781-549-8693",
+        "484-641-1844",
+        "508-458-5709",
+        "626-963-8487",
+        "718-535-1171",
+        "631-558-5171"
+    };
+    
+    
+    /**
+     * This function return the concatenation of every single element in the friend and work lists.
+     */
+    public static void getMergeFriendsAndWorkers()
+    {
+    	vector.clear();
+    	vectorOriginal.clear();
+    	for(int i=0;i<Contacts.friendNames.length;i++)
+    	{    		
+    		vectorOriginal.add(Contacts.friendNames[i]+":"+Contacts.friendNumbers[i]);
+    	}
+    	for(int i=0;i<Contacts.workNames.length;i++)
+    	{
+    		if(!vectorOriginal.contains(Contacts.workNames[i]+":"+Contacts.workNumbers[i]))
+    			{    				
+    				vectorOriginal.add(Contacts.workNames[i]+":"+Contacts.workNumbers[i]);
+    			}
+    	}
+    	vector = (Vector) vectorOriginal.clone();
+    }
+    
+    /**
+     * @param word
+     * 
+     * This function updates the vector which contains only the elements which contains this word.
+     */
+    public static void searchForWord(String word)
+    {
+    	vector.clear();  	    	
+    	for(int i=0;i<vectorOriginal.size();i++)
+		{
+			if(vectorOriginal.get(i).toString().toLowerCase().contains(word.toLowerCase()))
+				{					
+					vector.add(vectorOriginal.get(i).toString());				
+				}
+		}	    	
+    }
+    
+    /**
+     * @param word
+     * This function adds one string to the vector.
+     */
+    public static void addElement(String word)
+    {
+    	vectorOriginal.add(word);
+    	vector.add(word);    	
+    }
+    
+    /**
+     * @param index
+     * This function removes the element in the index position.
+     */
+    public static void removeElement(int index)
+    {
+    	vectorOriginal.remove(index);
+    	vector.remove(index);
+    }
+}

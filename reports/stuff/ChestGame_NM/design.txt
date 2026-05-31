@@ -1,0 +1,28 @@
+243 Puzzle Solver, Project Part 2:  Water & Clock
+
+Team Member 1: Raelynn Janicke
+Team Member 2: Robert Matsch
+
+1. Explain how your common solver is able to work with both puzzles.
+- We changed all of the types in solver to be generic so that we could use it for both clock and water. Solver
+being generic allows for it to be passed into the classes, but the types are made specific within the classes.
+
+
+2. What was the type of configuration you used for each puzzle?
+- Water took a configuration of an ArrayList of integers
+- Clock took a configuration of integers
+
+
+3. Starting with the Puzzle interface from part 1, what were the major
+changes and additions you had to make?
+- The only changes we made within our puzzle interface were changing everything to generics, except for
+getGoal, which we changed to a boolean. Changing getGoal to a boolean allowed us to check the goal of both
+configurations while still returning whether or not it was the goal, without a specific type.
+
+
+4. What problems, if any, did you encounter when re-designing your 
+project from part 1?
+- We had to change a large portion of our code. Puzzle was not hard to change, but we had to completely redo
+solver. Having solver take generics was difficult because we had to find a way to get predecessors for 
+generic types, and ultimately ended up using a hashmap. We also had to change getGoal within clock.
+

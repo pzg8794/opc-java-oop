@@ -1,0 +1,104 @@
+# Drive-Only / Non-GitHub Material
+
+Drive source: https://drive.google.com/drive/folders/1cbbnx1wAbvKFco2s2SiYgYUpCsM0M36W
+
+These folders were present in Drive but did not contain GitHub-appropriate simple files after filtering. They are not kept as empty GitHub folders. Check Drive for videos, installers, archives, raw data, or other excluded/heavy artifacts.
+
+- `AlgoExpProject/`
+- `AlgoExpProject/AlgoExpProject-2013-12-03/`
+- `AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/`
+- `AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/`
+- `AlgoExpProject/bin/`
+- `AlgoExpProject/src/`
+- `BischofsClass/hw4/`
+- `BischofsClass/hw4/lab4-1/`
+- `BischofsClass/hw4/lab4-2/`
+- `BischofsClass/hw4/lab4-3/`
+- `BischofsClass/hw4/lab4-4/`
+- `Computer Graphics/CG-FinalExam/`
+- `Computer Graphics/CG-FinalExam/bin/`
+- `Computer Graphics/CG-FinalExam/src/`
+- `Computer Graphics/anotherFinal/`
+- `Computer Graphics/anotherFinal/bin/`
+- `Computer Graphics/anotherFinal/src/`
+- `Computer Graphics/anotherandtemFinal/`
+- `Computer Graphics/anotherandtemFinal/bin/`
+- `Computer Graphics/anotherandtemFinal/src/`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/config/`
+- `Duncan Robert - Java/Lab7/`
+- `Duncan Robert - Java/Lab7/Redacter1/`
+- `Duncan Robert - Java/Stuff/243_Lab1/`
+- `Duncan Robert - Java/Stuff/243_Lab1/src/`
+- `Duncan Robert - Java/Stuff/243_Lab3/`
+- `Duncan Robert - Java/Stuff/CS243_lab1/`
+- `Duncan Robert - Java/Stuff/CS243_lab1/src/`
+- `Duncan Robert - Java/Stuff/JavaLab3/`
+- `Duncan Robert - Java/Stuff/JavaLab3/src/`
+- `Duncan Robert - Java/Stuff/LabWeek7/`
+- `Duncan Robert - Java/Stuff/dlab5/`
+- `Duncan Robert - Java/Stuff/lab4/`
+- `Duncan Robert - Java/Stuff/lab7/`
+- `Duncan Robert - Java/Stuff/lab7 2/`
+- `Duncan Robert - Java/WaterPuzzle/bin/`
+- `Duncan Robert - Java/lab1/`
+- `Duncan Robert - Java/lab2/`
+- `Duncan Robert - Java/lab2/CarRadio/`
+- `Duncan Robert - Java/lab3/`
+- `Duncan Robert - Java/lab3/RegExParser/`
+- `Duncan Robert - Java/lab4/`
+- `Duncan Robert - Java/lab4/PokerHand1/`
+- `Duncan Robert - Java/lab5/`
+- `Duncan Robert - Java/lab5/BCardsDealer/`
+- `Duncan Robert - Java/lab6/`
+- `Duncan Robert - Java/lab6/BCardsDealerApp/`
+- `Duncan Robert - Java/lab8/`
+- `Duncan Robert - Java/lab8/TrollsBridge/`
+- `PhillWhite/lab1/`
+- `PhillWhite/lab1/PowerSet/`
+- `PhillWhite/lab1/UnixAccount/`
+- `PhillWhite/lab2/`
+- `PhillWhite/lab2/PokerHandA/`
+- `PhillWhite/lab2/PokerHandB/`
+- `PhillWhite/lab2/PokerHandC/`
+- `PhillWhite/lab3/`
+- `PhillWhite/lab3/PokerHandD/`
+- `PhillWhite/lab4/`
+- `PhillWhite/lab4/FruitA/`
+- `PhillWhite/lab4/FruitB/`
+- `PhillWhite/lab4/FruitC/`
+- `PhillWhite/lab4/FruitD/`
+- `PhillWhite/lab5/`
+- `PhillWhite/lab5/BinSet/`
+- `PhillWhite/lab6/`
+- `PhillWhite/lab6/TrollsBridge/`
+- `PhillWhite/lab8/`
+- `PhillWhite/lab8/AddressBook/`
+- `PhillWhite/lab8/AddressBookApp/`
+- `PhillWhite/lab9/`
+- `PhillWhite/lab9/VCipherReader/`
+- `PhillWhite/lab9/VCipherReaderA/`
+- `PhillWhite/lab9/VCipherReaderB/`
+- `TravisBrown/Battleship/JavaProject2/`
+- `TravisBrown/Battleship/Project2/`
+- `TravisBrown/Lab8/`
+- `TravisBrown/Lab8/TrollsBridge/`
+- `TravisBrown/SubmittedFinalProject/`
+- `TravisBrown/SubmittedFinalProject/Project2/`
+- `TravisBrown/lab1/`
+- `TravisBrown/lab1/lab1/`
+- `TravisBrown/lab2/`
+- `TravisBrown/lab2/pokerhand/`
+- `TravisBrown/lab3/`
+- `TravisBrown/lab3/PassengerPriority/`
+- `TravisBrown/lab4/`
+- `TravisBrown/lab4/BookStore/`
+- `TravisBrown/lab5/`
+- `TravisBrown/lab6/`
+- `TravisBrown/lab6/BookStoreApp/`
+- `TravisBrown/lab7/`
+- `TravisBrown/lab7/Redacter/`
+- `TravisBrown/stuff/`
+- `TravisBrown/stuff/lab1/`
+- `TravisBrown/stuff/lab2/`
+- `papers/`
+- `stuff/Docs/lwjgl-2.9.0/doc/3rdparty/`

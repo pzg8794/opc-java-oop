@@ -1,0 +1,15 @@
+# 22
+
+Path: `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/10/22`
+
+## Purpose
+
+Project/source directory imported from Google Drive.
+
+## Items
+
+- `fb_image_None.jpg` (file)
+
+## Notes
+
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

@@ -1,0 +1,10 @@
+Recursive Calls CPU TIME (ms)  LCS	ISL1	 ISL2
+3	   1	0	2	  2
+6	   0	1	4	  4
+11	   0	5	8	  8
+24	   0	8	16	  16
+
+ Total Time:1mSec
+ Total Time Elapsed:3mSec
+
+ Total Time Elapsed:0Sec

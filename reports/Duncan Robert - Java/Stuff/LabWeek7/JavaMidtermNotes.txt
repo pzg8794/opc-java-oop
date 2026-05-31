@@ -1,0 +1,33 @@
+Midterm topics
+
+how to compile and run files on linux
+differences between python and java
+	must declare all variables - java  and Python don't
+	java runs main method first - java and Python …
+
+Object Oriented programming - model the real world
+Encapsulation
+constructor
+Overloading
+constructor chaining
+Class behavior and attributes or fields.
+interfaces - contract
+
+Objects and Primitives
+Primitive types
+Array of primitives are objects?
+what is .equals?
+abstract classes
+limitation with abstract class
+limitation with interfaces
+Poker lab
+
+Generics
+Comparable and Comparator
+<k, v>
+
+no primitive vs reference types
+
+
+Project
+

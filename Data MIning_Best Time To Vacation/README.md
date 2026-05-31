@@ -4,17 +4,13 @@ Path: `Data MIning_Best Time To Vacation`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `Best Time for Vacationing.docx` (file)
-- `Best Time for Vacationing.pdf` (file)
-- `Best Time for Vacationing2.docx` (file)
-- `Best Time for Vacationing2.pdf` (file)
+- `Phase2/` (folder)
 - `cleaningGraph.m` (file)
 - `Drawing3.jpg` (file)
-- `Drawing3.pdf` (file)
 - `FileIO (1).java` (file)
 - `FileIO.java` (file)
 - `First.png` (file)
@@ -27,4 +23,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

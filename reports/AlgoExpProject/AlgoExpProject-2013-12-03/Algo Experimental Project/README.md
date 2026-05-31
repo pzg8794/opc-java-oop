@@ -1,0 +1,78 @@
+# Algo Experimental Project
+
+Path: `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project`
+
+## Purpose
+
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
+
+## Items
+
+- `51(1).jpg` (file)
+- `51(2).jpg` (file)
+- `51(3).jpg` (file)
+- `51.pdf` (file)
+- `52(1).jpg` (file)
+- `52(2).jpg` (file)
+- `52(3).jpg` (file)
+- `71.png` (file)
+- `72.png` (file)
+- `c1.png` (file)
+- `c2.png` (file)
+- `c3.png` (file)
+- `c4.png` (file)
+- `d1.jpg` (file)
+- `d2.jpg` (file)
+- `d3.png` (file)
+- `d4.png` (file)
+- `d5.jpg` (file)
+- `dirList.docx` (file)
+- `f.jpg` (file)
+- `FinalReport.pdf` (file)
+- `fly.jpg` (file)
+- `GUIDE.PDF` (file)
+- `h1.jpg` (file)
+- `h2.jpg` (file)
+- `h3.jpg` (file)
+- `h4.png` (file)
+- `h5.png` (file)
+- `h6.jpg` (file)
+- `hls.png` (file)
+- `hls1.png` (file)
+- `hls2.png` (file)
+- `hls3.png` (file)
+- `hls4.png` (file)
+- `HLSm.jpg` (file)
+- `HLSm.pdf` (file)
+- `hsl.png` (file)
+- `hsl2.png` (file)
+- `hsl3.png` (file)
+- `hsl4.png` (file)
+- `hspr-1.jpg` (file)
+- `hspr-2.jpg` (file)
+- `hspr.pdf` (file)
+- `j.jpg` (file)
+- `m1.jpg` (file)
+- `m2.jpg` (file)
+- `m3.png` (file)
+- `m4.png` (file)
+- `m5.jpg` (file)
+- `n1.png` (file)
+- `n2.png` (file)
+- `n3.png` (file)
+- `QuadraticAV.txt` (file)
+- `README.TXT` (file)
+- `report - Copy.pdf` (file)
+- `report.pdf` (file)
+- `report.tex` (file)
+- `REPORT_INITIAL.PDF` (file)
+- `sig-alternate.tex` (file)
+- `SPR-51.pdf` (file)
+- `SPR-52.pdf` (file)
+- `spr.pdf` (file)
+- `TestData1.jpg` (file)
+- `TestData2.jpg` (file)
+
+## Notes
+
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

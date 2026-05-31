@@ -1,0 +1,30 @@
+ Is 115759 Prime ? false
+Not Prime Counter (NP)C: 2.0
+Prime Counter (P)C:0.0
+%Counter NP: 0.5
+%Counter P:0
+
+ A's ( 22748 ) 
+Not Prime Counter: 2
+Prime Counter :0
+
+
+[115759 NP: 0.5  P: 0]
+Biggest Porcentage Error Numbers : 115759 NP: 0.5  P: 0
+Biggest Porcentage Error Numbers : null
+Biggest Porcentage Error Numbers : null
+Biggest Porcentage Error Numbers : null
+Biggest Porcentage Error Numbers : null
+Biggest Porcentage Error Numbers : null
+Biggest Porcentage Error Numbers : null
+Biggest Porcentage Error Numbers : null
+Biggest Porcentage Error Numbers : null
+Biggest Porcentage Error Numbers : null
+
+
+highest Probabilities According to its Percentage and Lowest Value: 
+
+[]
+
+
+Prime Numbers According to highest Probabilities : 

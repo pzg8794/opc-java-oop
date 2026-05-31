@@ -4,17 +4,17 @@ Path: `Crypto/CryptoEC`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `ExtraCredit - Cryptography.pdf` (file)
 - `GaloisField.java` (file)
 - `GCD.java` (file)
 - `Integral.java` (file)
+- `InverseGF.java` (file)
 - `Operations.java` (file)
 - `Poly.java` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

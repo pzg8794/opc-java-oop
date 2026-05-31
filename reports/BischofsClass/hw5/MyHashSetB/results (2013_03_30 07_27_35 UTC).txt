@@ -1,0 +1,180 @@
+
+Testing HashSet Functions from Java Collection
+kind = 0
+	2:add:           31
+	2:contains:      0
+	2:isEmpty:       0
+size: 0 failed 
+size: 1 failed 
+size: 2 failed 
+size: 3 failed 
+size: 4 failed 
+size: 5 failed 
+size: 6 failed 
+size: 7 failed 
+size: 8 failed 
+size: 9 failed 
+size: 10 failed 
+size: 11 failed 
+size: 12 failed 
+size: 13 failed 
+size: 14 failed 
+size: 15 failed 
+size: 16 failed 
+size: 17 failed 
+size: 18 failed 
+size: 19 failed 
+	2:size:          1
+	2:remove:        0
+2:all:          33
+kind = 1
+	2:add:           0
+	2:contains:      1
+	2:isEmpty:       0
+size: 0 failed 
+size: 1 failed 
+size: 2 failed 
+size: 3 failed 
+size: 4 failed 
+size: 5 failed 
+size: 6 failed 
+size: 7 failed 
+size: 8 failed 
+size: 9 failed 
+size: 10 failed 
+size: 11 failed 
+size: 12 failed 
+size: 13 failed 
+size: 14 failed 
+size: 15 failed 
+size: 16 failed 
+size: 17 failed 
+size: 18 failed 
+size: 19 failed 
+	2:size:          0
+	2:remove:        1
+2:all:          2
+kind = 2
+	2:add:           1
+	2:contains:      0
+	2:isEmpty:       0
+size: 0 failed 
+size: 1 failed 
+size: 2 failed 
+size: 3 failed 
+size: 4 failed 
+size: 5 failed 
+size: 6 failed 
+size: 7 failed 
+size: 8 failed 
+size: 9 failed 
+size: 10 failed 
+size: 11 failed 
+size: 12 failed 
+size: 13 failed 
+size: 14 failed 
+size: 15 failed 
+size: 16 failed 
+size: 17 failed 
+size: 18 failed 
+size: 19 failed 
+	2:size:          1
+	2:remove:        1
+2:all:          3
+Time for all:       39
+
+
+
+
+
+
+Testing My Own HashSet Functions
+kind = 0
+	2:add:           29
+	2:contains:      0
+	2:isEmpty:       0
+size: 0 failed 
+size: 1 failed 
+size: 2 failed 
+size: 3 failed 
+size: 4 failed 
+size: 5 failed 
+size: 6 failed 
+size: 7 failed 
+size: 8 failed 
+size: 9 failed 
+size: 10 failed 
+size: 11 failed 
+size: 12 failed 
+size: 13 failed 
+size: 14 failed 
+size: 15 failed 
+size: 16 failed 
+size: 17 failed 
+size: 18 failed 
+size: 19 failed 
+	2:size:          1
+	2:remove:        1
+2:all:          31
+kind = 1
+	2:add:           2
+	2:contains:      0
+	2:isEmpty:       0
+size: 0 failed 
+size: 1 failed 
+size: 2 failed 
+size: 3 failed 
+size: 4 failed 
+size: 5 failed 
+size: 6 failed 
+size: 7 failed 
+size: 8 failed 
+size: 9 failed 
+size: 10 failed 
+size: 11 failed 
+size: 12 failed 
+size: 13 failed 
+size: 14 failed 
+size: 15 failed 
+size: 16 failed 
+size: 17 failed 
+size: 18 failed 
+size: 19 failed 
+	2:size:          0
+	2:remove:        1
+2:all:          4
+kind = 2
+	2:add:           2
+	2:contains:      0
+	2:isEmpty:       0
+size: 0 failed 
+size: 1 failed 
+size: 2 failed 
+size: 3 failed 
+size: 4 failed 
+size: 5 failed 
+size: 6 failed 
+size: 7 failed 
+size: 8 failed 
+size: 9 failed 
+size: 10 failed 
+size: 11 failed 
+size: 12 failed 
+size: 13 failed 
+size: 14 failed 
+size: 15 failed 
+size: 16 failed 
+size: 17 failed 
+size: 18 failed 
+size: 19 failed 
+	2:size:          1
+	2:remove:        1
+2:all:          4
+Time for all:       39
+
+
+
+
+
+
+

@@ -4,13 +4,15 @@ Path: `Crypto`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
 - `CryptoEC/` (folder)
 - `CryptoHW1/` (folder)
+- `CryptoHw3/` (folder)
+- `CryptoHw6/` (folder)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

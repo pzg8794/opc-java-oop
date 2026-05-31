@@ -1,0 +1,62 @@
+243 Puzzle Solver, Project Part 2:  Water & Clock
+
+Team Member 1: Piter Garcia
+Team Member 2: Piter Garcia
+
+1. Explain how your common solver is able to work with both puzzles.
+
+	I converted my Puzzle abstract class and my Solver.java class from Integer
+	 to Generic <E>. Both classes generic methods enabled me to specify, with 
+	 a single method declaration, a set of related methods and, with a single 
+	 class declaration, a set of related types, respectively.
+
+2. What was the type of configuration you used for each puzzle?
+	
+	a) The configuration type of my abstract class Puzzle.java is genetic <E>,
+	 to allow any other class to be able to extend it and use its methods and
+	  variables.
+	
+	b) The configuration type of my class Solver.java is genetic <E>, to allow 
+	all classes extended from my Puzzle.java class to be able to use its
+	 methods and variables.
+	
+	c) The configuration type I used for the class Clock.java was Integer.
+	
+	d) The configuration type I used for the class Water.java was Config.
+	- Config is a class that contains a list of Jugs.java.
+	- Jugs.java is a class that represents each a jug with parameters that identify
+		the status of the amount of water in a jug.
+		
+		
+3. Starting with the Puzzle interface from part 1, what were the major
+changes and additions you had to make?
+
+The major changes are the followings:
+	a) I converted my Puzzle.java from an interface to an abstract class.
+	
+	b) I converted my Puzzle.java and my Solver.java from Integer to Generic.
+	
+	c) In my Puzzle.java I changed getGoal from integer to boolean and from taking
+	 no parameters to taking a genetic parameter getGoal(E example).
+	 
+	d) Since my Puzzle is an abstract I created a variable to access the goal 
+	and defined the method getGoal(E example). 
+	
+	e) I overwrote java equals method as well as java HashCode method.
+
+
+4. What problems, if any, did you encounter when re-designing your 
+project from part 1? 
+
+	First : When redesigning my Puzzle.java and Solver.java classes my solve 
+	method was infinitely printing the list obtained from the method 
+	getNeighbors(E e). 
+
+	Second: When I overwrote my HashCode method, my solve method was
+	infinitely printing the list obtained from the method getNeighbors(E e) 
+	because the equals method from java was not comparing the jugs properly 
+	but it address.
+
+	Third: When pouring water from one jug to another, in getNeighbor(E e) in
+	my Solver.java Class, getNeighbor(E e) was returning an empty list because
+	it was pouring the water infinitely into itself.

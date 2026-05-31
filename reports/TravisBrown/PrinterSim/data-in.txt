@@ -1,0 +1,33 @@
+3
+job 1 yellow 8.5 17
+job 4 pink 8.5 11
+tick
+tick
+
+job 5 yellow 8.5 17
+tick
+
+job 3 yellow 8.5 17
+job 4 yellow 8.5 17
+tick
+
+job 2 blue 11 17
+tick
+
+job 3 yellow 8.5 17
+tick
+tick
+
+job 1 yellow 3.5 5
+tick
+tick
+
+job 2 yellow 8.5 17
+tick
+
+job 2 yellow 8.5 17
+tick
+
+job 1 white 3.5 5
+job 3 pink 8.5 11
+tick
